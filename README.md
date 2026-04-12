@@ -1,22 +1,22 @@
-# Available .REALTY One-Word Domains (5,621,951)
+# Available .REALTY One-Word Domains (9,720)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C721%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C951%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C717%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C720%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .realty one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,721-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,951 domains** on the canonical page below.
+> **Important:** this repository is a **public 9,717-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,720 domains** on the canonical page below.
 
-**Public extract:** 9,721 rows · **Live catalog:** 5,621,951 domains
+**Public extract:** 9,717 rows · **Live catalog:** 9,720 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/realty`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .REALTY one-word domai
 
 ### Files
 
-- `realty.csv` — public CSV extract (9,721 rows)
-- `realty.json` — public JSON extract (9,721 rows)
+- `realty.csv` — public CSV extract (9,717 rows)
+- `realty.json` — public JSON extract (9,717 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
 | converse.realty  | available | $349.99   | $349.99       | 64             | 73     | 8      | name.com           |
 | fuck.realty      | resell    | —         | —             | 124            | 70     | 4      | DNC Holdings, Inc. |
-| data.realty      | premium   | $4,550    | $6,500        | 70             | 60     | 4      | namecheap          |
+| free.realty      | premium   | $910      | $1,300        | 88             | 59     | 4      | namecheap          |
 | hello.realty     | available | $349.99   | —             | 92             | 71     | 5      | name.com           |
 | flow.realty      | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.    |
-| free.realty      | premium   | $910      | $1,300        | 88             | 59     | 4      | namecheap          |
-| web.realty       | available | $349.99   | —             | 72             | 65     | 3      | name.com           |
-| the.realty       | resell    | —         | —             | 98             | 58     | 3      | Porkbun LLC        |
-| live.realty      | premium   | $910      | $1,300        | 108            | 55     | 4      | namecheap          |
+| live.realty      | premium   | $910      | $1,300        | 108            | 56     | 4      | namecheap          |
 | seventeen.realty | available | $349.99   | $349.99       | 84             | 62     | 9      | name.com           |
+| the.realty       | resell    | —         | —             | 98             | 58     | 3      | Porkbun LLC        |
+| data.realty      | premium   | $4,550    | $6,500        | 70             | 56     | 4      | namecheap          |
+| web.realty       | available | $349.99   | —             | 72             | 61     | 3      | name.com           |
 | momentum.realty  | resell    | —         | —             | 74             | 45     | 8      | Porkbun LLC        |
 | good.realty      | premium   | $910      | $1,300        | 82             | 55     | 4      | namecheap          |
 | dot.realty       | available | $349.99   | —             | 74             | 58     | 3      | name.com           |
-| play.realty      | resell    | —         | —             | 104            | 43     | 4      | Porkbun LLC        |
+| evolve.realty    | resell    | —         | —             | 84             | 40     | 6      | Porkbun LLC        |
 | business.realty  | premium   | $8,190    | $11,700       | 100            | 53     | 8      | namecheap          |
-| music.realty     | available | $349.99   | —             | 84             | 56     | 5      | name.com           |
-| scale.realty     | resell    | —         | —             | 96             | 42     | 5      | Porkbun LLC        |
+| music.realty     | available | $349.99   | —             | 84             | 54     | 5      | name.com           |
+| ignite.realty    | resell    | —         | —             | 82             | 37     | 6      | Porkbun LLC        |
 | art.realty       | premium   | $910      | $1,300        | 90             | 52     | 3      | namecheap          |
 | zero.realty      | available | $349.99   | $349.99       | 112            | 53     | 4      | name.com           |
-| evolve.realty    | resell    | —         | —             | 84             | 40     | 6      | Porkbun LLC        |
+| mega.realty      | resell    | —         | —             | 74             | 37     | 4      | Porkbun LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,721-row public sample | 5,621,951 live domains                           |
+| 9,717-row public sample | 9,720 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
