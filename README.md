@@ -66,7 +66,7 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
 | converse.realty  | available | $349.99   | $349.99       | 64             | 73     | 8      | name.com           |
 | fuck.realty      | resell    | —         | —             | 124            | 70     | 4      | DNC Holdings, Inc. |
-| free.realty      | premium   | $910      | $1,300        | 88             | 59     | 4      | namecheap          |
+| free.realty      | premium   | $910      | $1,300        | 88             | 57     | 4      | namecheap          |
 | hello.realty     | available | $349.99   | —             | 92             | 71     | 5      | name.com           |
 | flow.realty      | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.    |
 | live.realty      | premium   | $910      | $1,300        | 108            | 56     | 4      | namecheap          |
