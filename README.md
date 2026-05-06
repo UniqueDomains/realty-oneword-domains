@@ -1,10 +1,10 @@
-# Available .REALTY One-Word Domains (12,697)
+# Available .REALTY One-Word Domains (12,702)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C697%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C702%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .realty one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,697 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,702 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,697 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,702 domains · **Median ask:** $260.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/realty`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bot.realty           | premium   | —         | —             | 80             | 58     | 3      | —         |
+| air.realty           | premium   | —         | —             | 84             | 48     | 3      | —         |
+| tips.realty          | available | $179.99   | —             | 80             | 26     | 4      | name.com  |
+| girls.realty         | available | $179.99   | —             | 83             | 23     | 5      | name.com  |
+| jewels.realty        | available | $179.99   | —             | 80             | 15     | 6      | name.com  |
+| ladies.realty        | available | $179.99   | —             | 80             | 17     | 6      | name.com  |
+| popup.realty         | available | $179.99   | —             | 84             | 29     | 6      | name.com  |
+| matcha.realty        | available | $179.99   | —             | 86             | 39     | 6      | name.com  |
+| edamame.realty       | available | $109.99   | $299          | 80             | 9      | 7      | namesilo  |
+| gearup.realty        | available | $179.99   | —             | 80             | 16     | 7      | name.com  |
 | keepthechange.realty | available | $179.99   | —             | 46             | 59     | 15     | name.com  |
 | online.realty        | premium   | $2,187.50 | —             | 70             | 62     | 7      | name.com  |
 | shortcuts.realty     | available | $179.99   | —             | 48             | 41     | 10     | name.com  |
 | farmers.realty       | premium   | $875      | —             | 54             | 59     | 7      | name.com  |
-| matcha.realty        | available | $179.99   | —             | 86             | 39     | 6      | name.com  |
 | agents.realty        | premium   | $2,187.50 | —             | 56             | 50     | 6      | name.com  |
 | whynot.realty        | available | $179.99   | —             | 74             | 39     | 7      | name.com  |
 | Books.realty         | premium   | $4,900    | $7,000        | 52             | 49     | 5      | namecheap |
 | tokens.realty        | available | $109.99   | $299          | 51             | 36     | 6      | namesilo  |
 | maps.realty          | premium   | $4,375    | —             | 56             | 31     | 4      | name.com  |
 | tickets.realty       | available | $109.99   | $299          | 64             | 34     | 7      | namesilo  |
-| investors.realty     | premium   | $2,187.50 | —             | 60             | 23     | 9      | name.com  |
-| spectra.realty       | available | $179.99   | —             | 62             | 34     | 7      | name.com  |
-| Places.realty        | premium   | $980      | $1,400        | 74             | 22     | 6      | namecheap |
-| teams.realty         | available | $179.99   | —             | 62             | 32     | 5      | name.com  |
-| apartments.realty    | premium   | $7,875    | —             | 60             | 21     | 10     | name.com  |
-| inspiration.realty   | available | $179.99   | —             | 88             | 30     | 11     | name.com  |
-| houses.realty        | premium   | $4,375    | —             | 66             | 18     | 6      | name.com  |
-| popup.realty         | available | $179.99   | —             | 84             | 29     | 6      | name.com  |
-| landscaping.realty   | premium   | $875      | —             | 80             | 16     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,697 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,702 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word .realty domains. The names range from broad dictionary terms such as air.realty and tips.realty to more specific or higher-risk strings such as WiFi.realty, Trex.realty, and Chanel.realty. With a median ask of 260.71, these domains sit in a range where selection quality matters more than headline price alone. For founders, the best options are usually clear, memorable words that fit property use cases without confusion. For investors, the stronger candidates are terms with obvious commercial relevance, clean spelling, and limited trademark friction. Renewal cost discipline also matters with niche extensions like .realty.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize clear property relevance over novelty
+- Use the 260.71 median ask as a pricing anchor
+- Check trademark risk on names like Chanel or Trex
+- Favor simple, memorable words with clean spelling
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
