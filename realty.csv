@@ -140,6 +140,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0baf4001-ad4f-40e6-882a-7b0abf0f9eab,hanginthere.realty,available,179.99,,54,3,13,name.com,,
 0bb31533-8f07-4d2f-b2b1-de824db5316b,havingamoment.realty,available,179.99,,40,2,15,name.com,,
 0bc332df-485c-457c-b415-30171bc05b9f,facilities.realty,available,179.99,,77,10,10,name.com,,
+0be1084d-50ba-436e-8c06-17233192cacd,yes.realty,premium,,,90,47,3,,,
 0c120b15-8ea5-4d22-8fc7-89c6560ae4df,children.realty,available,179.99,,68,21,8,name.com,,
 0c1971d8-561b-460a-a202-2e68bb328889,neighbourhood.realty,available,179.99,,70,14,13,name.com,,
 0c208d92-c953-4462-9dea-8f7364ebce13,SwedishEmpire.realty,available,456.98,,58,1,14,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57817a3b-bb46-476b-a387-4a39f0013b3f,grandmothers.realty,available,179.99,,68,3,12,name.com,,
 5784b841-5cfa-45ae-a490-d45501f2530e,showedup.realty,available,109.99,299,59,1,9,namesilo,,
 57850231-176f-4f04-afe7-b7b213308027,OKs.realty,available,109.99,299,68,13,3,namesilo,,
-57875fd5-58dc-4844-9c9c-6ebd8584e138,flashflooding.realty,available,179.99,,52,0,14,name.com,,
