@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .realty one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,722 domains · **Median ask:** $260.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/realty`  
 **Best for:** founders, investors, studios
 
@@ -71,16 +71,16 @@ print(df.head())
 | girls.realty         | available | $179.99   | —             | 83             | 23     | 5      | name.com  |
 | jewels.realty        | available | $179.99   | —             | 80             | 15     | 6      | name.com  |
 | ladies.realty        | available | $179.99   | —             | 80             | 17     | 6      | name.com  |
-| popup.realty         | available | $179.99   | —             | 84             | 29     | 6      | name.com  |
+| popup.realty         | available | $179.99   | —             | 84             | 28     | 6      | name.com  |
 | matcha.realty        | available | $179.99   | —             | 86             | 39     | 6      | name.com  |
 | edamame.realty       | available | $109.99   | $299          | 80             | 9      | 7      | namesilo  |
 | gearup.realty        | available | $179.99   | —             | 80             | 16     | 7      | name.com  |
 | keepthechange.realty | available | $179.99   | —             | 46             | 59     | 15     | name.com  |
 | online.realty        | premium   | $2,187.50 | —             | 70             | 62     | 7      | name.com  |
-| shortcuts.realty     | available | $179.99   | —             | 48             | 41     | 10     | name.com  |
+| whynot.realty        | available | $179.99   | —             | 74             | 44     | 7      | name.com  |
 | farmers.realty       | premium   | $875      | —             | 54             | 59     | 7      | name.com  |
+| shortcuts.realty     | available | $179.99   | —             | 48             | 41     | 10     | name.com  |
 | agents.realty        | premium   | $2,187.50 | —             | 56             | 50     | 6      | name.com  |
-| whynot.realty        | available | $179.99   | —             | 74             | 39     | 7      | name.com  |
 | Books.realty         | premium   | $4,900    | $7,000        | 52             | 49     | 5      | namecheap |
 | tokens.realty        | available | $109.99   | $299          | 51             | 36     | 6      | namesilo  |
 | maps.realty          | premium   | $4,375    | —             | 56             | 31     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
