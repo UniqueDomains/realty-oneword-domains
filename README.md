@@ -1,10 +1,10 @@
-# Available .REALTY One-Word Domains (19,982)
+# Available .REALTY One-Word Domains (20,142)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C982%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C142%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .realty one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,982 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,142 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,982 domains · **Median ask:** $165.43 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 20,142 domains · **Median ask:** $164.90 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/tld/realty`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| just.realty    | available | $179.99   | —             | high           | medium | 4      | name.com           |
-| bad.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| room.realty    | available | $109.99   | $299          | high           | low    | 4      | namesilo           |
-| time.realty    | available | $109.99   | $299          | high           | medium | 4      | namesilo           |
-| fuck.realty    | resell    | —         | —             | high           | high   | 4      | DNC Holdings, Inc. |
-| soft.realty    | available | $349.99   | $349.99       | high           | low    | 4      | name.com           |
-| perfect.realty | available | $109.99   | $299          | high           | low    | 7      | namesilo           |
-| flow.realty    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
-| art.realty     | premium   | $910      | $1,300        | high           | medium | 3      | namecheap          |
-| BBC.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| buy.realty     | premium   | $7,875    | $11,250       | medium         | medium | 3      | name.com           |
-| bob.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| gay.realty     | premium   | $875      | —             | high           | medium | 3      | name.com           |
-| btw.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| map.realty     | premium   | $4,550    | $6,500        | high           | medium | 3      | namecheap          |
-| cap.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| tax.realty     | premium   | $875      | —             | high           | medium | 3      | name.com           |
-| dad.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| usa.realty     | premium   | $7,875    | —             | high           | medium | 3      | name.com           |
-| Eid.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| bad.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| flow.realty | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
+| art.realty  | premium   | $910      | $1,300        | high           | medium | 3      | namecheap          |
+| BBC.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| fuck.realty | resell    | —         | —             | high           | high   | 4      | DNC Holdings, Inc. |
+| buy.realty  | premium   | $7,875    | $11,250       | medium         | medium | 3      | name.com           |
+| bob.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| gay.realty  | premium   | $875      | —             | high           | medium | 3      | name.com           |
+| btw.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| map.realty  | premium   | $4,550    | $6,500        | high           | medium | 3      | namecheap          |
+| cap.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| tax.realty  | premium   | $875      | —             | high           | medium | 3      | name.com           |
+| dad.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| usa.realty  | premium   | $7,875    | —             | high           | medium | 3      | name.com           |
+| Eid.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| bali.realty | premium   | $875      | —             | medium         | medium | 4      | name.com           |
+| had.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| food.realty | premium   | $910      | $1,300        | high           | medium | 4      | namecheap          |
+| ham.realty  | available | $109.99   | $299          | medium         | low    | 3      | namesilo           |
+| gift.realty | premium   | $875      | —             | high           | low    | 4      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,982 live domains                        |
+| 1,000-row public sample | 20,142 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
