@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .realty one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,878 domains · **Median ask:** $162.86 · **High-demand under $2,500:** 35
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/realty`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| bad.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| flow.realty | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
-| art.realty  | premium   | $910      | $1,300        | high           | medium | 3      | namecheap          |
-| BBC.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| fuck.realty | resell    | —         | —             | high           | high   | 4      | DNC Holdings, Inc. |
-| buy.realty  | premium   | $8,190    | $11,700       | medium         | medium | 3      | namecheap          |
-| bob.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| gay.realty  | premium   | $875      | —             | high           | medium | 3      | name.com           |
-| btw.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| map.realty  | premium   | $4,550    | $6,500        | high           | medium | 3      | namecheap          |
-| cap.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| tax.realty  | premium   | $875      | —             | high           | medium | 3      | name.com           |
-| dad.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| usa.realty  | premium   | $7,875    | —             | high           | medium | 3      | name.com           |
-| Eid.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| bali.realty | premium   | $875      | —             | medium         | medium | 4      | name.com           |
-| had.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
-| food.realty | premium   | $910      | $1,300        | high           | medium | 4      | namecheap          |
-| ham.realty  | available | $109.99   | $299          | medium         | low    | 3      | namesilo           |
-| gift.realty | premium   | $875      | —             | high           | low    | 4      | name.com           |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| just.realty    | available | $179.99   | —             | high           | medium | 4      | name.com           |
+| bad.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| room.realty    | available | $109.99   | $299          | high           | low    | 4      | namesilo           |
+| time.realty    | available | $109.99   | $299          | high           | medium | 4      | namesilo           |
+| fuck.realty    | resell    | —         | —             | high           | high   | 4      | DNC Holdings, Inc. |
+| soft.realty    | available | $349.99   | $349.99       | high           | low    | 4      | name.com           |
+| perfect.realty | available | $109.99   | $299          | high           | low    | 7      | namesilo           |
+| flow.realty    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
+| art.realty     | premium   | $910      | $1,300        | high           | medium | 3      | namecheap          |
+| BBC.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| buy.realty     | premium   | $8,190    | $11,700       | medium         | medium | 3      | namecheap          |
+| bob.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
+| gay.realty     | premium   | $875      | —             | high           | medium | 3      | name.com           |
+| btw.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| map.realty     | premium   | $4,550    | $6,500        | high           | medium | 3      | namecheap          |
+| cap.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| tax.realty     | premium   | $875      | —             | high           | medium | 3      | name.com           |
+| dad.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
+| usa.realty     | premium   | $7,875    | —             | high           | medium | 3      | name.com           |
+| Eid.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
