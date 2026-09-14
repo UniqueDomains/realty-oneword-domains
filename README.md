@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .realty one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,284 domains · **Median ask:** $154.91 · **High-demand under $2,500:** 39
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/realty`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,7 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| just.realty | available | $179.99   | —             | high           | medium | 4      | name.com           |
 | bad.realty  | available | $109.99   | $299          | high           | medium | 3      | namesilo           |
-| time.realty | available | $109.99   | $299          | high           | medium | 4      | namesilo           |
 | flow.realty | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.    |
 | art.realty  | premium   | $910      | $1,300        | high           | medium | 3      | namecheap          |
 | BBC.realty  | available | $99.80    | $456.98       | medium         | medium | 3      | namecheap          |
@@ -84,6 +82,8 @@ print(df.head())
 | bali.realty | premium   | $875      | —             | medium         | medium | 4      | name.com           |
 | had.realty  | available | $109.99   | $299          | high           | low    | 3      | namesilo           |
 | food.realty | premium   | $910      | $1,300        | high           | medium | 4      | namecheap          |
+| ham.realty  | available | $109.99   | $299          | medium         | low    | 3      | namesilo           |
+| gift.realty | premium   | $875      | —             | high           | low    | 4      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
