@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-d8c3eadf-9646-4454-894f-66f9e0d96142,domain.realty,premium,3450,3450,high,medium,6,namesilo,,,25/09/2026 14:42
+d8c3eadf-9646-4454-894f-66f9e0d96142,domain.realty,premium,2275,3250,high,medium,6,namecheap,,,28/09/2026 02:54
 4b882116-789c-4398-910a-c9e7906d1a91,bag.realty,available,99.8,456.98,high,low,3,namecheap,,,04/09/2026 13:24
 ca5dc308-a0cd-4d50-ba20-829d63642ca0,dances.realty,available,109.99,299,high,low,6,namesilo,,,
 98b608ff-561a-4116-b756-cfdb9351f50f,hilarious.realty,available,99.8,456.98,high,low,9,namecheap,,,21/08/2026 09:21
@@ -18,6 +18,7 @@ ab737be2-6b86-4f0a-9540-9bd6ed640fec,peking.realty,available,109.99,299,high,low
 e2bd73f5-dd65-4b09-af43-08b4374e0a6b,tigerish.realty,available,99.8,456.98,medium,low,8,namecheap,,,11/09/2026 15:51
 30bbb93f-96ad-4566-a1be-7af5fbc34806,allele.realty,available,109.99,299,medium,low,6,namesilo,,,18/09/2026 10:44
 2d036c7a-f39e-404b-9030-89075ea45e06,demonstration.realty,available,109.99,299,high,low,13,namesilo,,,
+0916b9cf-e777-4ba7-a978-7e220e9957e9,munro.realty,available,109.99,299,high,low,5,namesilo,,,27/09/2026 13:53
 6a057e6f-dd89-4497-980a-d08439fccd1d,telluric.realty,available,99.8,456.98,medium,low,8,namecheap,,,11/09/2026 10:39
 13adf7f4-7e90-400a-9d00-9cd8c293b4be,confucian.realty,available,99.8,456.98,high,low,9,namecheap,,,12/08/2026 21:15
 f7738f7b-2c18-4fa4-b5bb-78a881f3e0da,romeo.realty,available,109.99,299,high,low,5,namesilo,,,27/09/2026 05:10
@@ -35,6 +36,7 @@ be8ab224-3377-4870-ba93-bba6b2387351,peer.realty,available,109.99,299,high,low,4
 5aee2a5a-da56-4d8e-a15d-724ee0f19e26,banding.realty,available,99.8,456.98,high,low,7,namecheap,,,22/09/2026 01:17
 91bf9b19-d9a8-4522-99dd-35167e607e5d,moonstruck.realty,available,99.8,456.98,medium,low,10,namecheap,,,24/08/2026 11:18
 f85936e0-b369-4518-a9d6-0f30c733a639,sinning.realty,available,99.8,456.98,high,medium,7,namecheap,,,10/09/2026 08:31
+08afa51d-0b32-4c12-bc67-38a8200565da,carlyle.realty,available,88.18,289.16,medium,low,7,spaceship,,,28/09/2026 02:01
 8521e27b-1520-40f6-ade2-3b5a626fd343,credible.realty,available,99.8,456.98,high,low,8,namecheap,,,09/08/2026 12:56
 699bc5ce-53a1-4b09-8a86-40fe0c74b090,hereto.realty,available,99.8,456.98,medium,low,6,namecheap,,,15/09/2026 00:34
 be8cd9e9-903f-4bf9-b349-e59ee480fe75,roof.realty,available,109.99,299,high,low,4,namesilo,,,
@@ -51,7 +53,7 @@ b19c6397-fe66-4279-812d-7fb653b82d95,tells.realty,available,109.99,299,medium,lo
 282a234a-2860-4e4c-b6c1-29396e18e572,inferno.realty,available,109.99,299,high,low,7,namesilo,,,24/09/2026 17:14
 be54ea64-6c42-47c0-a3bf-40ff5ec23072,temperate.realty,available,99.8,456.98,high,low,9,namecheap,,,11/09/2026 10:48
 496dd185-7c16-4f35-8fd8-99f6363b5cb2,starboard.realty,available,99.8,456.98,high,low,9,namecheap,,,10/09/2026 18:46
-86252e8e-f9f1-4abb-ad68-5d4f579250d5,linden.realty,available,109.99,299,high,low,6,namesilo,,,22/09/2026 12:37
+86252e8e-f9f1-4abb-ad68-5d4f579250d5,linden.realty,available,109.99,299,medium,low,6,namesilo,,,22/09/2026 12:37
 36a95669-7429-4de9-9237-e451df0d2fbc,acidic.realty,available,99.8,456.98,high,low,6,namecheap,,,
 d4515bef-d46f-4f84-9472-c5a836891206,piggish.realty,available,99.8,456.98,medium,low,7,namecheap,,,21/08/2026 10:18
 362b502f-85bb-4d2d-8759-bba8e0dbbfe6,turds.realty,available,109.99,299,low,low,5,namesilo,,,18/09/2026 11:32
@@ -81,7 +83,7 @@ bbc30f21-bd34-4165-b1fd-f7ed1d2a2123,leak.realty,available,109.99,299,high,low,4
 2365e12c-8807-401c-b211-fff4b8a223ad,fondly.realty,available,99.8,456.98,high,low,6,namecheap,,,14/09/2026 19:12
 61c5c1e6-5e36-4b63-b337-de0ec20b9da4,fork.realty,available,99.8,456.98,high,low,4,namecheap,,,23/09/2026 02:18
 d573e7ed-08a6-4965-880c-53401127f20e,pursy.realty,available,99.8,456.98,high,medium,5,namecheap,,,09/09/2026 06:28
-83daf314-a5ff-4ce2-b88c-dff8da58dff8,deepening.realty,available,99.8,456.98,high,low,9,namecheap,,,13/08/2026 23:00
+83daf314-a5ff-4ce2-b88c-dff8da58dff8,deepening.realty,available,99.8,456.98,medium,low,9,namecheap,,,13/08/2026 23:00
 76305cbb-bb68-4937-8fd0-d96d2e419e55,baldrick.realty,available,109.99,299,medium,low,8,namesilo,,,21/09/2026 21:46
 a629b691-e738-4478-9292-88665b458d72,tower.realty,available,109.99,299,high,low,5,namesilo,,,
 d9d3cc22-4199-4c87-a565-fefcb95ec8e0,amaretto.realty,available,109.99,299,high,low,8,namesilo,,,18/09/2026 15:58
@@ -117,11 +119,11 @@ b8a51b7f-a2ac-482d-85cb-e225619c082e,challenging.realty,available,109.99,299,hig
 bbd8cc5d-f4a2-4e87-b209-9968fff8bc9f,ball.realty,available,99.8,456.98,high,low,4,namecheap,,,24/09/2026 21:18
 8a338221-a530-467d-b2c9-717864b3ba50,backslider.realty,available,109.99,299,medium,low,10,namesilo,,,21/09/2026 15:58
 1d01bcdf-45d0-4b8d-95de-34ec0e4c1439,barbecued.realty,available,99.8,456.98,medium,low,9,namecheap,,,08/08/2026 16:25
-54d7ffeb-c425-4dfb-9992-d39835a57a35,supported.realty,available,109.99,299,high,low,9,namesilo,,,
+54d7ffeb-c425-4dfb-9992-d39835a57a35,supported.realty,available,88.18,289.16,high,low,9,spaceship,,,28/09/2026 02:01
 cc869a8a-3744-4149-adf7-c769353c90ac,violet.realty,available,99.8,456.98,high,medium,6,namecheap,,,09/09/2026 06:21
 73f1d5e0-f040-47d0-a4a0-292337448d1c,akaba.realty,available,109.99,299,medium,low,5,namesilo,,,17/09/2026 23:49
 efd0d3e6-417f-4af2-9099-5b9a88074ee7,stick.realty,available,109.99,299,high,low,5,namesilo,,,
-e5e6a1fa-84ef-44fc-8164-d667269a1c88,cellini.realty,available,109.99,299,high,low,7,namesilo,,,23/09/2026 08:47
+e5e6a1fa-84ef-44fc-8164-d667269a1c88,cellini.realty,available,109.99,299,medium,low,7,namesilo,,,23/09/2026 08:47
 b2cc363b-012e-42de-b89a-cfd53fc80a5a,lxxiv.realty,available,99.8,456.98,medium,low,5,namecheap,,,
 564131ae-980b-444f-ab8e-6a83cc5a8b6a,lamar.realty,available,109.99,299,high,low,5,namesilo,,,25/09/2026 16:19
 d936e714-8193-4c6f-ad7c-a332d99f5bc3,revolt.realty,available,109.99,299,high,low,6,namesilo,,,
@@ -151,7 +153,7 @@ dc00b639-bb73-4e22-b7b2-060e75416823,sydney.realty,available,109.99,299,high,low
 ce2e0788-5d1f-4d04-aa2d-38c43a440809,unbent.realty,available,99.8,456.98,medium,low,6,namecheap,,,12/09/2026 01:50
 3744ce08-4ce4-4bb4-81cf-6d72dea29810,rated.realty,available,109.99,299,high,low,5,namesilo,,,
 e426c189-cfaf-4d21-ba56-b78585ea5e10,postmark.realty,available,99.8,456.98,high,low,8,namecheap,,,18/08/2026 14:12
-9b1b4c12-592b-4840-8ea2-7372f115587d,occipital.realty,available,99.8,456.98,high,low,9,namecheap,,,04/09/2026 00:11
+9b1b4c12-592b-4840-8ea2-7372f115587d,occipital.realty,available,99.8,456.98,medium,low,9,namecheap,,,04/09/2026 00:11
 7b646a2b-9559-47ef-890f-67f72ae5b267,fumbling.realty,available,99.8,456.98,medium,low,8,namecheap,,,11/08/2026 10:05
 8769611f-65ad-4a67-b8df-4f2f4644c15b,socially.realty,available,99.8,456.98,high,low,8,namecheap,,,16/09/2026 03:57
 ab6680ee-5766-4f3d-a8df-f6ccb3573862,influenced.realty,available,109.99,299,high,low,10,namesilo,,,
@@ -159,6 +161,7 @@ ab6680ee-5766-4f3d-a8df-f6ccb3573862,influenced.realty,available,109.99,299,high
 798c0fb0-f13d-474d-9d26-f6cd4cff4dbb,ascot.realty,available,99.8,456.98,high,low,5,namecheap,,,20/09/2026 13:27
 8cc65a77-0d81-4288-aed3-41afa5a75a89,technique.realty,available,179.99,,high,low,9,name.com,,,
 fffba8a9-7b6c-4fe9-922b-cf2aa72c9322,barnyard.realty,available,99.8,456.98,high,low,8,namecheap,,,22/09/2026 06:58
+125aa95e-a8b3-48d1-ba27-e21b8b2d0608,receiving.realty,available,88.18,289.16,high,low,9,spaceship,,,27/09/2026 17:11
 01cbb56a-4744-4349-a9e2-c3830bdbc90d,lovesick.realty,available,99.8,456.98,medium,low,8,namecheap,,,24/08/2026 10:18
 838aa670-5265-4301-9d09-12c7feb27d5d,lessons.realty,available,99.8,456.98,medium,low,7,namecheap,,,25/09/2026 19:53
 6659454c-73d5-456e-8b31-3b03979c9c67,appointive.realty,available,99.8,456.98,medium,low,10,namecheap,,,06/08/2026 07:16
@@ -173,6 +176,7 @@ c3bfa378-23a2-4949-af24-e8c43f9b9b46,endearing.realty,available,99.8,456.98,high
 1b908bec-9ec4-42e8-b4e0-440b0039fdd1,delectable.realty,available,99.8,456.98,high,low,10,namecheap,,,14/08/2026 00:21
 51a3a778-3a00-4c24-b62f-782a9117d797,player.realty,available,109.99,299,high,low,6,namesilo,,,23/09/2026 07:45
 31bf4d37-a3be-44ba-be2a-13984623ac14,catholicism.realty,available,109.99,299,high,low,11,namesilo,,,17/09/2026 00:07
+33ecc401-eb26-44e5-9503-0554cb073adb,cultivars.realty,available,280.2,280.2,low,low,9,cloudflare,,,28/09/2026 00:23
 3854cb0e-86b3-4b46-be88-5dcbe6948fbe,crowd.realty,available,179.99,,high,low,5,name.com,,,
 632c9b54-9107-4abf-a285-0961d1c9b368,pearson.realty,available,109.99,299,high,medium,7,namesilo,,,25/09/2026 17:36
 8d2ff829-50cf-423f-ad0c-95c7cdbd1aaf,silver.realty,premium,1107,1107,high,low,6,namesilo,,,22/09/2026 07:45
@@ -184,21 +188,23 @@ e1a68a13-b929-4042-8374-7ba2134e04e2,bach.realty,available,109.99,299,high,low,4
 c386ce60-f4c3-42ff-a5ce-5a46340e3626,nosy.realty,available,99.8,456.98,medium,low,4,namecheap,,,03/09/2026 21:48
 3be022b5-365a-42d5-9517-23543d1a04fb,ackee.realty,available,109.99,299,medium,low,5,namesilo,,,17/09/2026 01:52
 3c3b1a2a-d00b-4df8-802f-f3618dba0380,gee.realty,available,109.99,299,high,low,3,namesilo,,,
-bcdccbba-ab64-4e6e-b6d8-ecb65931c90c,incurable.realty,available,99.8,456.98,high,low,9,namecheap,,,22/08/2026 02:06
+5771afd3-1bd5-4b01-87c9-980b2222cdd6,achieve.realty,available,109.99,299,high,low,7,namesilo,,,28/09/2026 03:16
+bcdccbba-ab64-4e6e-b6d8-ecb65931c90c,incurable.realty,available,99.8,456.98,medium,low,9,namecheap,,,22/08/2026 02:06
 ebf5e48f-ca65-46ec-9374-b7f8f8a50cc6,cook.realty,available,109.99,299,high,low,4,namesilo,,,27/09/2026 10:07
 6a579555-b596-4431-bb5c-f7484bf1a043,chairmen.realty,available,109.99,299,medium,low,8,namesilo,,,18/09/2026 22:56
 0002a693-4f1d-4efc-bdce-f7ead9ff7413,important.realty,available,109.99,299,high,low,9,namesilo,,,22/09/2026 13:54
 98da001c-3574-4ba4-91f8-8c5e46c50672,denominations.realty,available,109.99,299,low,low,13,namesilo,,,21/09/2026 00:01
+9b405e60-afc8-4caa-b06b-eec7051e7aac,bloch.realty,available,88.18,289.16,medium,low,5,spaceship,,,28/09/2026 00:50
 182906c3-e6c7-4975-bb06-85ffd5deae3f,plant.realty,available,109.99,299,high,low,5,namesilo,,,25/09/2026 07:48
 76a03d1a-385c-4040-b0f8-bcedc079ded9,institution.realty,available,109.99,299,high,low,11,namesilo,,,27/09/2026 08:25
 64c6ef41-ad19-4918-bc41-438b3b4db80a,perceiver.realty,available,99.8,456.98,high,low,9,namecheap,,,08/09/2026 16:18
 9695887c-641f-4fa2-af64-d4aeab5c20bd,hotcake.realty,available,99.8,456.98,high,low,7,namecheap,,,22/09/2026 14:33
-f554c0da-2299-43a2-8977-88c610921ded,eloquently.realty,available,99.8,456.98,high,low,10,namecheap,,,13/09/2026 20:54
+f554c0da-2299-43a2-8977-88c610921ded,eloquently.realty,available,99.8,456.98,medium,low,10,namecheap,,,13/09/2026 20:54
 3f471de7-1017-4db2-9376-1b6c6c258955,expandable.realty,available,99.8,456.98,high,low,10,namecheap,,,17/08/2026 17:51
 98589a59-da29-4426-9a05-7682cb934334,susquehanna.realty,available,109.99,299,medium,low,11,namesilo,,,27/09/2026 01:59
 c93ab944-8e96-47ef-b019-ad0f6ac58371,bones.realty,available,179.99,,high,low,5,name.com,,,
 f0240e1c-c408-4634-b0a4-c6ba12151c1c,links.realty,available,179.99,,high,low,5,name.com,,,
-a9c638e2-bb90-4ac4-a1c5-69dcf23c08ab,prying.realty,available,99.8,456.98,high,low,6,namecheap,,,03/09/2026 21:52
+a9c638e2-bb90-4ac4-a1c5-69dcf23c08ab,prying.realty,available,99.8,456.98,medium,low,6,namecheap,,,03/09/2026 21:52
 6698bae9-66eb-4fb3-afac-d2f0d0752bc2,bingo.realty,available,99.8,456.98,high,low,5,namecheap,,,22/09/2026 20:37
 c75da937-db19-4ed7-b35f-2af7d3bf2b9a,stinky.realty,available,99.8,456.98,high,low,6,namecheap,,,13/08/2026 05:18
 2f206ed1-f089-443b-b8d1-d023f355c267,balboa.realty,available,99.8,456.98,high,low,6,namecheap,,,21/09/2026 21:24
@@ -214,6 +220,7 @@ f375459f-4319-4bd3-8d48-56ee85c0fd55,portion.realty,available,99.8,456.98,high,l
 a4f35de1-3f9b-443c-98e9-075fd3656137,bassia.realty,available,109.99,299,medium,low,6,namesilo,,,22/09/2026 12:17
 d9bc51f2-1a0f-4ebe-bd01-aa4e95d80464,alcoves.realty,available,109.99,299,low,low,7,namesilo,,,20/09/2026 22:35
 a490abdd-b082-47e4-b9f0-ae42c22a590a,buckshot.realty,available,99.8,456.98,high,low,8,namecheap,,,23/09/2026 20:24
+dff6863c-e69d-4c1e-9002-0eac7d345729,myth.realty,available,88.18,289.16,high,low,4,spaceship,,,28/09/2026 02:27
 b6cded0b-e846-4115-bbed-ba87ed520745,awny.realty,available,99.8,456.98,medium,low,4,namecheap,,,08/08/2026 01:25
 13931c0f-c250-4063-a2bc-1a275d3c2642,blinking.realty,available,99.8,456.98,high,low,8,namecheap,,,22/09/2026 21:58
 db6632e0-cb7b-4f29-94b4-c5496323f41d,mantrap.realty,available,99.8,456.98,medium,low,7,namecheap,,,22/08/2026 16:50
@@ -264,19 +271,19 @@ ce7217f3-7bbf-4ba1-9949-b1669eeca431,sisal.realty,available,109.99,299,medium,lo
 b4d30733-169d-4377-bbc6-e6408fa2e22f,hotel.realty,available,109.99,299,high,medium,5,namesilo,,,
 edfc91d6-de00-424e-8680-41be21f95196,sweep.realty,available,109.99,299,high,low,5,namesilo,,,24/09/2026 10:48
 d036d55b-c794-4e22-a404-534658117728,ucla.realty,available,109.99,299,high,low,4,namesilo,,,25/09/2026 15:03
-00ff136a-450f-4ab9-aa87-2eb9cd2b8617,peirce.realty,available,109.99,299,high,low,6,namesilo,,,23/09/2026 08:23
+00ff136a-450f-4ab9-aa87-2eb9cd2b8617,peirce.realty,available,109.99,299,medium,low,6,namesilo,,,23/09/2026 08:23
 85f06cbc-a9c0-49d4-8451-4f5b064dffb9,aggregate.realty,available,99.8,456.98,high,low,9,namecheap,,,
-1ac4c595-7180-4ed6-97a0-a1dcaf373044,intragroup.realty,available,99.8,456.98,high,low,10,namecheap,,,22/08/2026 08:41
+1ac4c595-7180-4ed6-97a0-a1dcaf373044,intragroup.realty,available,99.8,456.98,medium,low,10,namecheap,,,22/08/2026 08:41
 82fe9bc8-0113-4ce9-b67b-3cc39f9d1e78,conflicted.realty,available,109.99,299,medium,low,10,namesilo,,,
 3729eb33-92f5-4a8b-8f03-927fe0b866af,gangly.realty,available,99.8,456.98,medium,low,6,namecheap,,,18/08/2026 20:09
 58a27bc1-0082-4311-a178-88ee34909c2c,menopausal.realty,available,99.8,456.98,medium,low,10,namecheap,,,24/08/2026 20:15
 db09030d-48c4-4211-87ed-1e2abbcf294b,colossal.realty,available,99.8,456.98,high,low,8,namecheap,,,12/08/2026 17:57
 b01b3b31-589c-46e6-b304-77911c6d539e,savagery.realty,available,99.8,456.98,medium,low,8,namecheap,,,22/09/2026 04:29
 a57a28f5-24e6-4417-9215-08cd1393285a,secluded.realty,available,109.99,299,high,low,8,namesilo,,,27/09/2026 06:24
-c6207f30-babd-41e3-8adf-b6cddfe9716e,sabbatic.realty,available,99.8,456.98,high,low,8,namecheap,,,09/09/2026 20:32
+c6207f30-babd-41e3-8adf-b6cddfe9716e,sabbatic.realty,available,99.8,456.98,medium,low,8,namecheap,,,09/09/2026 20:32
 cbb7fbfb-6957-41b7-8b62-8b478631c563,profess.realty,available,109.99,299,high,low,7,namesilo,,,
 f6252721-5916-4cc9-b52d-1fbf30e4c31b,vocative.realty,available,99.8,456.98,medium,low,8,namecheap,,,13/09/2026 06:31
-564ba8a5-e38b-4f27-a766-ffc0f500ba46,strict.realty,available,99.8,456.98,high,low,6,namecheap,,,21/08/2026 00:17
+564ba8a5-e38b-4f27-a766-ffc0f500ba46,strict.realty,available,99.8,456.98,medium,low,6,namecheap,,,21/08/2026 00:17
 2a051462-7e94-4cd7-bed8-f3c047becfef,permutable.realty,available,99.8,456.98,medium,low,10,namecheap,,,08/09/2026 17:50
 0620cc6a-9ff5-4397-b563-a5f20614ebb0,runaway.realty,available,99.8,456.98,high,low,7,namecheap,,,18/08/2026 17:46
 631fd80f-bc2a-42cc-8dc9-defca050547f,polyatomic.realty,available,99.8,456.98,medium,low,10,namecheap,,,08/09/2026 23:10
@@ -307,6 +314,7 @@ aee0945e-04eb-4cd1-95e0-bf203e176ead,smartness.realty,available,99.8,456.98,high
 40b07938-a943-4e22-85dc-4dde30a89214,rugged.realty,available,99.8,456.98,high,low,6,namecheap,,,18/08/2026 18:56
 69b88ce5-06b6-4e0d-8a04-965dc197f9e7,wins.realty,available,99.8,456.98,high,low,4,namecheap,,,18/09/2026 14:21
 bb1ceedf-c244-45d0-a3bf-1e2f2d7d7974,berne.realty,available,99.8,456.98,medium,low,5,namecheap,,,23/09/2026 09:45
+dd3caf17-a1d7-4e45-baf2-20d23c533c53,carson.realty,available,88.18,289.16,high,low,6,spaceship,,,28/09/2026 01:36
 d961ed67-a2f5-44b6-896f-cd9a8f8c2e2b,leaks.realty,available,109.99,299,medium,low,5,namesilo,,,18/09/2026 06:46
 7bfa4e9b-6851-47ef-9af0-71b61441f4fe,wheezing.realty,available,99.8,456.98,medium,low,8,namecheap,,,07/08/2026 09:25
 a71ddaa8-e23e-4676-b9af-5b49b47af236,improvable.realty,available,99.8,456.98,medium,low,10,namecheap,,,21/08/2026 23:14
@@ -315,7 +323,7 @@ a71ddaa8-e23e-4676-b9af-5b49b47af236,improvable.realty,available,99.8,456.98,med
 e73e10fa-aa15-41e1-87d4-34daa274c527,impairment.realty,available,179.99,349.99,medium,low,10,name.com,,,13/08/2026 19:25
 0f31daa5-4b88-4f4c-8d1c-7dc35420c3ca,ototoxic.realty,available,99.8,456.98,medium,low,8,namecheap,,,04/09/2026 18:36
 fa98dc16-8a59-4d61-bd80-c2c484343df4,ducktape.realty,available,99.8,456.98,high,low,9,namecheap,,,27/09/2026 08:55
-8db05242-f265-4011-992d-ebb14db04cda,nepalese.realty,available,99.8,456.98,high,low,8,namecheap,,,03/09/2026 15:35
+8db05242-f265-4011-992d-ebb14db04cda,nepalese.realty,available,99.8,456.98,medium,low,8,namecheap,,,03/09/2026 15:35
 020a88d0-09e1-4432-b146-6c29ba68614b,pre.realty,available,109.99,299,high,low,3,namesilo,,,
 a6a9626a-6bde-42d0-ae54-e2fdd92e29ff,tangle.realty,available,109.99,299,high,low,6,namesilo,,,25/09/2026 17:42
 140e262e-5f85-47c2-bde7-80ff9d0ec515,evoked.realty,available,99.8,456.98,medium,low,6,namecheap,,,16/08/2026 04:33
@@ -341,13 +349,13 @@ cd1088d2-7735-46e4-9c38-8567902d8e1b,giovanni.realty,available,109.99,299,high,l
 048a676d-0035-4ec2-87cb-082159770ad9,ain.realty,available,99.8,456.98,high,low,3,namecheap,,,
 40c7ce79-d44e-4f89-8ce4-d3e279ed08e4,mansard.realty,available,99.8,456.98,high,low,7,namecheap,,,24/08/2026 15:30
 d3c9e4dd-d090-41f5-88e1-ed9879d11060,requires.realty,available,109.99,299,medium,low,8,namesilo,,,18/09/2026 15:31
-b2cf4135-6ab4-4949-a649-2570fc578455,roast.realty,available,179.99,,high,low,5,name.com,,,
+b2cf4135-6ab4-4949-a649-2570fc578455,roast.realty,available,280.2,280.2,high,low,5,cloudflare,,,27/09/2026 15:46
 b9702868-20da-4dd2-9df1-794b4c99ecb5,liaison.realty,available,109.99,299,high,low,7,namesilo,,,17/09/2026 14:03
 afa1eaef-c12f-4b52-b873-50264834f245,refuse.realty,available,109.99,299,medium,low,6,namesilo,,,27/09/2026 02:42
 0b9d2db2-07e4-456a-85ea-fe4d79cdf5c7,ladder.realty,available,109.99,299,high,low,6,namesilo,,,
 d0050155-958f-4206-82d9-72f538717c89,hyoid.realty,available,99.8,456.98,medium,low,5,namecheap,,,21/08/2026 16:35
 7531278f-e172-47ee-ac40-d36ed9a9788d,sociable.realty,available,99.8,456.98,high,medium,8,namecheap,,,10/09/2026 13:08
-6a1342eb-149d-4f97-bfbb-08916740edfa,ingrained.realty,available,99.8,456.98,high,low,9,namecheap,,,13/08/2026 22:49
+6a1342eb-149d-4f97-bfbb-08916740edfa,ingrained.realty,available,99.8,456.98,medium,low,9,namecheap,,,13/08/2026 22:49
 d994d163-2529-42d5-88a3-e68dfe524fb5,syllabled.realty,available,99.8,456.98,medium,low,9,namecheap,,,11/09/2026 06:00
 690eb5cf-5476-49c8-9c82-11cb0ce6aa34,bayou.realty,available,99.8,456.98,high,low,5,namecheap,,,22/09/2026 18:09
 b5bb8b09-b6e9-4c88-a977-38195a83b1bc,society.realty,available,109.99,299,high,low,7,namesilo,,,
@@ -366,11 +374,13 @@ a9473e60-4c0b-4e92-8287-a4e79cf051f4,warhol.realty,available,109.99,299,high,low
 f8332e60-339a-4f58-9d79-7d188f7630a4,pettifog.realty,available,99.8,456.98,medium,low,8,namecheap,,,23/09/2026 13:20
 30da1cbf-e417-4d82-9787-f75da5496b2f,acheson.realty,available,109.99,299,medium,low,7,namesilo,,,17/09/2026 00:31
 a3ecdb63-7f6f-43df-8294-e40fb20c86ff,uncured.realty,available,99.8,456.98,medium,low,7,namecheap,,,12/09/2026 06:39
+6edb0b94-e162-49bb-9798-fd5d29a5bc39,horace.realty,available,88.18,289.16,high,low,6,spaceship,,,28/09/2026 02:07
 70c0fe95-96d3-4f75-b238-4d95a3ea6c6e,para.realty,available,109.99,299,high,low,4,namesilo,,,23/09/2026 04:51
 d50d4b7b-8dd7-490c-9ae0-5697e62fe2dc,torn.realty,available,109.99,299,high,low,4,namesilo,,,25/09/2026 16:39
 fefaa2f4-4bc0-4d92-b4d7-ad02934ba68f,squeak.realty,available,109.99,299,high,low,6,namesilo,,,24/09/2026 15:54
 d83cab60-9c20-4327-a67b-8f579108144d,unoriginal.realty,available,99.8,456.98,medium,low,10,namecheap,,,12/09/2026 16:21
 c2e28aff-bb2b-4a44-912a-a2eb064e6f5b,betise.realty,available,109.99,299,medium,low,6,namesilo,,,23/09/2026 11:18
+b588ac68-264a-45c7-9f55-ba7de31b03fc,eternity.realty,available,109.99,299,high,low,8,namesilo,,,28/09/2026 01:51
 f73fd093-7d00-4d05-86c2-5648a2ea6e25,darling.realty,available,99.8,456.98,high,low,7,namecheap,,,09/08/2026 13:48
 3f089b84-e655-441d-9a85-67648f43d135,salaried.realty,available,99.8,456.98,high,low,8,namecheap,,,12/08/2026 19:23
 2e705371-3fff-406f-9d07-d80302676a6d,credibly.realty,available,99.8,456.98,medium,low,8,namecheap,,,14/09/2026 09:26
@@ -384,7 +394,7 @@ f682b09f-1695-49ec-8ad9-11fe39bfd5c2,apogamy.realty,available,99.8,456.98,medium
 fc8f87a8-dcfd-4d68-ba0f-4b58ba734438,lager.realty,available,109.99,299,high,low,5,namesilo,,,
 07941fb6-88f7-48a6-8702-f22e112d57de,vigilance.realty,available,99.8,456.98,high,low,9,namecheap,,,18/09/2026 05:28
 0b04a0bd-6425-4284-bddd-243bbaad2fae,messy.realty,available,99.8,456.98,high,low,5,namecheap,,,25/09/2026 19:49
-80ead434-8c11-47c2-b31c-4812505b0942,dropped.realty,available,99.8,456.98,high,low,7,namecheap,,,25/09/2026 20:16
+80ead434-8c11-47c2-b31c-4812505b0942,dropped.realty,available,99.8,456.98,medium,low,7,namecheap,,,25/09/2026 20:16
 e37eb26d-686a-4eca-ba05-08107b8e8dad,socialist.realty,available,99.8,456.98,high,low,9,namecheap,,,10/09/2026 13:19
 8431b8b9-392a-4ba1-ab2f-1cbbf776a7c5,brumal.realty,available,99.8,456.98,medium,low,6,namecheap,,,11/08/2026 06:36
 35684f5f-edd4-4866-91e8-7ae76d58dcbb,imuran.realty,available,99.8,456.98,medium,low,6,namecheap,,,21/09/2026 11:01
@@ -393,7 +403,7 @@ eaa96e45-a4fb-4ce8-9903-05aa67232f82,agouti.realty,available,99.8,456.98,medium,
 286a3ea6-6d3a-4ae9-a33b-2c2cd2bb4a3c,unbiased.realty,available,99.8,456.98,high,low,8,namecheap,,,12/09/2026 01:52
 1273abeb-303a-4da4-aaf3-55dedcbe89d5,nevermore.realty,available,99.8,456.98,medium,low,9,namecheap,,,15/09/2026 16:30
 4b3d537c-5894-4fb9-a5d9-0d0123b1b304,sonic.realty,available,99.8,456.98,high,low,5,namecheap,,,10/09/2026 14:09
-422e9b79-c0bd-4ef0-abfe-e4f518c5f8c9,aquifer.realty,available,99.8,456.98,high,low,7,namecheap,,,19/09/2026 23:11
+422e9b79-c0bd-4ef0-abfe-e4f518c5f8c9,aquifer.realty,available,99.8,456.98,medium,low,7,namecheap,,,19/09/2026 23:11
 147f3fca-32ef-410e-8277-36766f0e03db,reprint.realty,available,99.8,456.98,high,low,7,namecheap,,,10/09/2026 04:03
 ea56b000-b513-403e-a86b-80d6986f032e,megalithic.realty,available,99.8,456.98,medium,low,10,namecheap,,,24/08/2026 19:24
 8bca7f4c-2a23-4c8a-95a2-12c9fe7a7ccf,gently.realty,available,179.99,,high,low,6,name.com,,,
@@ -401,10 +411,11 @@ ea56b000-b513-403e-a86b-80d6986f032e,megalithic.realty,available,99.8,456.98,med
 2961df9d-1c23-4188-8293-f30663d54450,sulfuric.realty,available,99.8,456.98,medium,low,8,namecheap,,,11/09/2026 01:29
 d1aa544a-97a0-4579-9abd-b406c61f11b7,bearer.realty,available,99.8,456.98,high,low,6,namecheap,,,22/09/2026 21:14
 8b6070ed-0255-4e68-b422-9e6a4c7f9950,ringway.realty,available,109.99,299,medium,low,7,namesilo,,,23/09/2026 07:12
+31d79f75-4030-4053-8d76-1eb3e508810c,usd.realty,available,109.99,299,high,low,3,namesilo,,,28/09/2026 03:31
 31bd174b-af07-4d3f-8f47-037c9ca1a899,bearded.realty,available,99.8,456.98,high,low,7,namecheap,,,08/08/2026 16:05
 59c05f9d-883e-49f6-bf44-4520b80e36f3,moneron.realty,available,99.8,456.98,medium,low,7,namecheap,,,25/08/2026 04:30
 46f90983-d311-4c0c-ae27-c9b79fd5435a,plug.realty,available,109.99,299,high,low,4,namesilo,,,
-e95554bf-398c-45e5-97c4-bb8b5919a7c3,analysis.realty,available,109.99,299,high,low,8,namesilo,,,23/09/2026 08:36
+e95554bf-398c-45e5-97c4-bb8b5919a7c3,analysis.realty,available,280.2,280.2,high,low,8,cloudflare,,,28/09/2026 03:24
 af5e8058-5cad-4ed2-91ec-ef31f1b69741,artistic.realty,available,109.99,299,high,low,8,namesilo,,,22/09/2026 09:09
 9b70f709-002f-45f8-8b18-2e3fb4b6795e,lutzen.realty,available,99.8,456.98,medium,low,6,namecheap,,,22/09/2026 15:24
 3d846038-9b88-408a-8bde-e559fe3352ff,oily.realty,available,99.8,456.98,medium,low,4,namecheap,,,11/08/2026 11:42
@@ -418,14 +429,16 @@ eda367eb-2132-4b0d-b6c7-2ddb157c60cc,twenties.realty,available,99.8,456.98,high,
 89b738b2-a66f-436b-9cbb-df7839e338c8,shirley.realty,available,109.99,299,high,low,7,namesilo,,,25/09/2026 13:56
 66f60fca-dcb1-46ac-a233-acf952322a92,walton.realty,available,109.99,299,high,low,6,namesilo,,,25/09/2026 05:07
 9b9adddf-bc00-4045-a288-e13e4f43d752,anything.realty,available,179.99,,high,low,8,name.com,,,
-3eb235ab-95c3-4708-bda2-02cf29e5243f,anorak.realty,available,109.99,299,high,low,6,namesilo,,,19/09/2026 11:41
+3eb235ab-95c3-4708-bda2-02cf29e5243f,anorak.realty,available,109.99,299,medium,low,6,namesilo,,,19/09/2026 11:41
 8426f30e-d9e6-4f05-aed2-ea77d78a8104,fly.realty,available,99.8,456.98,high,medium,3,namecheap,,,24/09/2026 20:39
 3a621aa0-0545-4779-bed6-77031c674ea3,anopheles.realty,available,109.99,299,medium,low,9,namesilo,,,19/09/2026 11:39
 956cae9e-3c71-432b-b577-47704949563e,baking.realty,available,109.99,299,high,low,6,namesilo,,,22/09/2026 16:25
+ec66e6b1-d4c1-4441-9109-d7f440b1dbb6,moore.realty,available,88.18,289.16,high,low,5,spaceship,,,27/09/2026 13:11
 bdd6ccc1-2916-401c-950e-cc42d4a2989a,continued.realty,available,109.99,299,high,low,9,namesilo,,,23/09/2026 22:14
 b1391b1f-27a8-4290-81c7-83627d6f75d1,crusader.realty,available,99.8,456.98,high,medium,8,namecheap,,,09/09/2026 12:45
 a09e32d4-b182-4c14-99a0-41204cb0126d,operant.realty,available,99.8,456.98,high,low,7,namecheap,,,04/09/2026 16:22
 e89ebdca-4af1-4df3-9e7c-eb6a2f9eddf7,aussie.realty,available,109.99,299,high,low,6,namesilo,,,22/09/2026 13:32
+8f229cde-8397-459c-9f12-78169f58e9f4,simons.realty,available,280.2,280.2,high,low,6,cloudflare,,,27/09/2026 20:33
 7475da60-9c3b-4940-bd1a-b220f5e10f1a,sparkly.realty,available,99.8,456.98,high,low,7,namecheap,,,
 6f31dc38-6a3c-4da0-9584-7db11e8b968d,dusty.realty,available,99.8,456.98,high,low,5,namecheap,,,14/08/2026 21:35
 258f3a71-d653-4c9a-ae55-711094df0f00,mothers.realty,available,109.99,299,high,low,7,namesilo,,,18/09/2026 06:34
@@ -440,15 +453,16 @@ a480d83f-b442-44ad-ac80-c564fb98c959,carlton.realty,available,109.99,299,high,lo
 b457be8a-0ff1-4e3b-8bf3-caffd9686e1d,nobel.realty,available,109.99,299,high,low,5,namesilo,,,18/09/2026 06:24
 7d8b1685-5ced-47ca-93e6-c384e362252a,stannic.realty,available,99.8,456.98,low,low,7,namecheap,,,10/09/2026 18:41
 5be7bed0-b135-4799-a092-e61e890ad80e,causes.realty,available,109.99,299,medium,low,6,namesilo,,,27/09/2026 09:34
+ac5501bd-9001-4b13-bdbc-cadb3d7d988b,luzon.realty,available,280.2,280.2,high,low,5,cloudflare,,,27/09/2026 14:53
 2df2abe0-f19f-400d-9901-12dc46f684f7,overhand.realty,available,99.8,456.98,high,low,8,namecheap,,,04/09/2026 20:09
 d74a65a9-01d2-4491-9cf6-5ffc3de3e2ab,turbid.realty,available,99.8,456.98,medium,low,6,namecheap,,,25/08/2026 01:10
 fd27e160-056a-4399-b073-a74b0dad09e7,renewing.realty,available,99.8,456.98,high,low,8,namecheap,,,09/09/2026 14:06
 c1318ee2-27fe-4b71-96db-6b54ab73bc05,parisian.realty,available,99.8,456.98,high,low,8,namecheap,,,08/09/2026 01:34
 7cf425e2-803f-4e9f-94e4-e46a8344b0c9,carven.realty,available,99.8,456.98,medium,low,6,namecheap,,,11/08/2026 19:59
-ff5703d8-96bb-489a-b754-a1f59cebcf01,assault.realty,available,109.99,299,high,low,7,namesilo,,,20/09/2026 15:48
+ff5703d8-96bb-489a-b754-a1f59cebcf01,assault.realty,available,109.99,299,medium,low,7,namesilo,,,20/09/2026 15:48
 1d204293-33dd-4485-afad-2e71fa9dbeec,dot.realty,available,99.8,456.98,high,medium,3,namecheap,,,19/09/2026 16:13
 f57af68f-33a9-4ebc-9234-17de7844be9c,defence.realty,available,179.99,,high,low,7,name.com,,,
-f958c4be-b465-4273-85dc-fba45c55873b,jockstrap.realty,available,99.8,456.98,high,low,9,namecheap,,,20/09/2026 21:10
+f958c4be-b465-4273-85dc-fba45c55873b,jockstrap.realty,available,99.8,456.98,medium,low,9,namecheap,,,20/09/2026 21:10
 584f0e09-1b72-4482-83f7-496c2b5b480b,buggery.realty,available,109.99,299,medium,low,7,namesilo,,,19/09/2026 01:35
 d875c75d-a217-411b-8575-b1fc1fb10014,perplexed.realty,available,99.8,456.98,medium,low,9,namecheap,,,08/09/2026 17:56
 da61d963-d7ca-4baa-afd8-84c0a49beedb,tussle.realty,available,99.8,456.98,high,medium,6,namecheap,,,09/09/2026 18:55
@@ -458,20 +472,22 @@ da61d963-d7ca-4baa-afd8-84c0a49beedb,tussle.realty,available,99.8,456.98,high,me
 6381065d-054a-41f0-a9b0-cca406b43a3b,ought.realty,available,109.99,299,high,low,5,namesilo,,,
 aa2ec1a4-d90f-4cd7-a3f7-1f780de1caca,consistently.realty,available,109.99,299,high,low,12,namesilo,,,
 ab0a3c4e-d74f-4a58-8655-3b8654772f85,invite.realty,available,109.99,299,high,low,6,namesilo,,,
-c1591e1d-c476-4b9a-a06e-cba34b78cc15,penetration.realty,available,99.8,456.98,high,low,11,namecheap,,,08/09/2026 15:09
+c73b2ab8-c1f6-4d7f-8d8c-27843261caee,examination.realty,available,96.52,299.82,high,low,11,dynadot,,,27/09/2026 21:26
+c1591e1d-c476-4b9a-a06e-cba34b78cc15,penetration.realty,available,99.8,456.98,medium,low,11,namecheap,,,08/09/2026 15:09
 13bcffa6-f119-4593-907f-c80f526d6b13,stupefied.realty,available,179.99,349.99,medium,low,9,name.com,,,13/08/2026 18:55
-1c314d07-90f4-45c6-8ef3-33bd087c5bab,tapering.realty,available,99.8,456.98,high,low,8,namecheap,,,14/08/2026 21:50
+1c314d07-90f4-45c6-8ef3-33bd087c5bab,tapering.realty,available,99.8,456.98,medium,low,8,namecheap,,,14/08/2026 21:50
 20843523-e20d-4cb7-9c8f-087b3f1be9c3,bonzer.realty,available,99.8,456.98,medium,low,6,namecheap,,,10/08/2026 19:02
 24c05307-b2e9-45e1-9619-df5c9a3bff1a,photographers.realty,available,99.8,456.98,medium,low,13,namecheap,,,19/09/2026 22:58
 d1665a99-5179-4cbc-86e4-80ac0bfac43d,aircrew.realty,available,109.99,299,high,low,7,namesilo,,,17/09/2026 22:11
 7bc5932c-f82d-442e-8208-dbb6824f3786,select.realty,premium,2187.5,3125,high,medium,6,name.com,,,22/09/2026 23:07
 5870656b-9ea9-46a3-9d21-a516f4e2c712,kicking.realty,available,109.99,299,high,low,7,namesilo,,,
-47708b07-7dd0-453b-8d40-e650751385a6,unfettered.realty,available,99.8,456.98,high,low,10,namecheap,,,12/09/2026 04:56
+47708b07-7dd0-453b-8d40-e650751385a6,unfettered.realty,available,99.8,456.98,medium,low,10,namecheap,,,12/09/2026 04:56
 d848e75e-c77a-4b5d-a5c0-ce8277a5b3f4,anser.realty,available,109.99,299,medium,low,5,namesilo,,,19/09/2026 12:03
 0d118d8b-5472-4edc-a220-40a69d3f9933,bends.realty,available,109.99,299,high,low,5,namesilo,,,23/09/2026 07:50
 ee02ef6e-44af-4b31-831b-daf78b74a4c7,alluring.realty,available,99.8,456.98,high,low,8,namecheap,,,22/09/2026 01:34
 7bdffcd9-3fbb-4ef0-9dbc-478fc38f8727,alluvial.realty,available,99.8,456.98,high,low,8,namecheap,,,
 f81c49a0-da49-4fa0-b184-c5a18d571382,roommate.realty,available,99.8,456.98,high,medium,8,namecheap,,,09/09/2026 18:34
+5988a269-cd81-435c-a3f8-a5159a67a795,yacht.realty,available,109.99,299,high,low,5,namesilo,,,28/09/2026 02:59
 5441d868-7461-48e5-95f8-2bfb18d7f211,caucasian.realty,available,99.8,456.98,high,low,9,namecheap,,,11/08/2026 22:16
 6613c504-80e7-4150-adfb-c4a8a465554a,exchanges.realty,available,99.8,456.98,medium,low,9,namecheap,,,25/09/2026 06:05
 13e5f913-512b-4edc-8ff7-dcb6534bf917,repository.realty,available,109.99,299,high,low,10,namesilo,,,24/09/2026 21:59
@@ -483,6 +499,7 @@ c5d5055e-6464-410e-a0f2-89cf261d4434,apneic.realty,available,99.8,456.98,medium,
 f70c8e81-a4a3-495b-8749-fb56765c28b6,vagrant.realty,available,99.8,456.98,high,low,7,namecheap,,,14/08/2026 19:18
 d136915c-fc43-4bf2-bb11-c4a0678f6ffe,bethlehem.realty,premium,910,1300,high,low,9,namecheap,,,22/09/2026 18:15
 a36b3cb4-5b1b-4f4d-a92e-8d8dbc69843c,banditry.realty,available,109.99,299,medium,low,8,namesilo,,,22/09/2026 01:24
+4998c82e-a3ed-4e43-9bf9-daa0411d4c1f,benefits.realty,available,88.18,289.16,high,low,8,spaceship,,,27/09/2026 23:08
 de66c91a-a0b2-4707-81dc-a515b2250ce6,capacity.realty,available,99.8,456.98,high,low,8,namecheap,,,24/09/2026 12:12
 a1d8f346-f4e8-4512-b7ac-1c7ad551fc39,speedy.realty,available,99.8,456.98,high,low,6,namecheap,,,09/09/2026 08:40
 38967f7c-8b10-493f-a9dd-aeed7d5c6099,self.realty,available,109.99,299,high,medium,4,namesilo,,,19/09/2026 02:59
@@ -514,7 +531,7 @@ ec98ac3c-2414-45ac-a960-6db520079fc7,battledore.realty,available,109.99,299,medi
 7351da70-2f6b-4646-9e9d-64a7942e482a,sopranino.realty,available,99.8,456.98,medium,low,9,namecheap,,,10/09/2026 14:22
 ed8c3280-f987-47c7-b8f0-6b5d5cfa0bc9,releasing.realty,available,99.8,456.98,high,low,9,namecheap,,,09/09/2026 13:32
 b6bd36d4-f18e-4499-893b-6217eddcfee9,stuart.realty,available,99.8,456.98,high,low,6,namecheap,,,25/09/2026 22:59
-ae4b3340-ad43-4407-bb85-60802a72dcf2,pictured.realty,available,99.8,456.98,high,low,8,namecheap,,,14/08/2026 02:14
+ae4b3340-ad43-4407-bb85-60802a72dcf2,pictured.realty,available,99.8,456.98,medium,low,8,namecheap,,,14/08/2026 02:14
 56494aa7-5e12-4538-be19-9b75c598416b,dormie.realty,available,99.8,456.98,medium,low,6,namecheap,,,14/08/2026 16:21
 7a6bcb58-58bf-4b13-ba84-211bc77b4b0a,dished.realty,available,99.8,456.98,medium,low,6,namecheap,,,14/08/2026 10:52
 76cddb83-5ff9-4e95-b4d6-7d68a79c2300,scooped.realty,available,99.8,456.98,medium,low,7,namecheap,,,17/09/2026 23:31
@@ -547,6 +564,7 @@ ff671a24-f2c6-4598-ba22-6254eb8aa181,unforeseen.realty,available,99.8,456.98,hig
 1253b143-1ba9-48fe-a077-0f697551505a,pitt.realty,available,99.8,456.98,high,low,4,namecheap,,,25/09/2026 06:04
 c39bdc7c-48bc-4aed-8739-445935418c32,menacingly.realty,available,99.8,456.98,medium,low,10,namecheap,,,15/09/2026 14:03
 81236585-4d04-46f9-a11c-34e35cc22c45,tauten.realty,available,99.8,456.98,medium,low,6,namecheap,,,18/08/2026 05:16
+df3f2546-b35e-4352-b143-24c0d7009355,flames.realty,available,88.18,289.16,medium,low,6,spaceship,,,27/09/2026 23:38
 ec4aa72b-28f3-47c3-b4c3-70cb034d7f9c,pompon.realty,available,109.99,299,medium,low,6,namesilo,,,19/09/2026 09:36
 588197ce-8092-4d6d-a8bf-dffb0620ed21,gull.realty,available,99.8,456.98,high,low,4,namecheap,,,12/08/2026 15:08
 1eefecc7-4001-46ed-99cb-aa3eabd03728,rosen.realty,available,109.99,299,high,low,5,namesilo,,,26/09/2026 03:15
@@ -554,6 +572,8 @@ ec4aa72b-28f3-47c3-b4c3-70cb034d7f9c,pompon.realty,available,109.99,299,medium,l
 54b93b18-7ba6-468a-a004-34153a24a02c,yearbook.realty,available,109.99,299,high,low,8,namesilo,,,
 8653e795-af1d-4c57-afcf-bf4d16ca6d49,guilt.realty,available,179.99,,high,low,5,name.com,,,
 796a46a3-0129-4028-a34a-0553359dceb7,vocational.realty,available,99.8,456.98,high,low,10,namecheap,,,13/09/2026 06:29
+dba3a6a8-cfd7-4713-84c5-7fdf87b614a3,gasoline.realty,available,88.18,289.16,high,low,8,spaceship,,,27/09/2026 13:38
+6677559e-dc2d-4bb3-ac16-3954ec989733,seeking.realty,available,109.99,299,high,low,7,namesilo,,,27/09/2026 15:47
 14227ff8-3d10-426b-9efc-2983f221d311,form.realty,available,109.99,299,high,medium,4,namesilo,,,25/09/2026 12:45
 efc71015-3cd2-4811-89e9-329e81a5dec7,navigation.realty,available,99.8,456.98,high,low,10,namecheap,,,10/09/2026 00:36
 f838291b-8316-4474-a390-378840d4cc5c,dotcom.realty,available,99.8,456.98,high,low,7,namecheap,,,14/08/2026 16:26
@@ -564,7 +584,7 @@ d964f900-19c1-4f4a-bb57-80c14bcb7644,darned.realty,available,99.8,456.98,medium,
 e4134b78-7d69-4abd-aa0c-adf926a0f725,rekt.realty,available,109.99,299,low,low,4,namesilo,,,
 9b71eeb9-2e00-460e-9be9-4d215e63028f,triploid.realty,available,99.8,456.98,medium,low,8,namecheap,,,11/09/2026 20:10
 e1213114-2dc4-45f1-92c3-ffcd4266c031,jinx.realty,available,99.8,456.98,high,low,4,namecheap,,,21/08/2026 07:37
-defe5384-0317-429d-a9f4-5d6858bb6686,echt.realty,available,99.8,456.98,high,low,4,namecheap,,,14/08/2026 23:41
+defe5384-0317-429d-a9f4-5d6858bb6686,echt.realty,available,99.8,456.98,medium,low,4,namecheap,,,14/08/2026 23:41
 b5d83ffc-2676-4410-a33f-593fea4ab1e7,sweltering.realty,available,99.8,456.98,medium,low,10,namecheap,,,11/09/2026 05:40
 10af5b7b-5aa1-4428-a788-355478de45dd,promises.realty,available,109.99,299,medium,low,8,namesilo,,,27/09/2026 03:01
 cc39648a-32d3-485e-bd6a-1664ae99114f,modeller.realty,available,179.99,,high,low,8,name.com,,,
@@ -580,10 +600,10 @@ bad9ce13-228a-4219-8c1a-f6d621d6b4d6,tortuous.realty,available,99.8,456.98,mediu
 2c013bc0-0ccf-4a10-b9fe-02e3a186ab26,final.realty,available,99.8,456.98,high,low,5,namecheap,,,23/09/2026 19:07
 5f742d35-21b7-4a7d-8adc-4db6bb1db35b,credit.realty,premium,4375,,high,low,6,name.com,,,
 4d7608d6-fe56-48a4-ac23-f622090ef5f1,mute.realty,available,179.99,349.99,high,low,4,name.com,,,13/08/2026 16:51
-d97e0289-9467-4e89-ab4f-7a6a899b6d59,prick.realty,available,99.8,456.98,high,low,5,namecheap,,,08/08/2026 23:38
+d97e0289-9467-4e89-ab4f-7a6a899b6d59,prick.realty,available,99.8,456.98,medium,low,5,namecheap,,,08/08/2026 23:38
 c67d4ef2-2501-4b1d-888b-9d7969175fcc,axially.realty,available,99.8,456.98,medium,low,7,namecheap,,,13/09/2026 22:57
-e7d3c018-1793-4364-8138-e5230e04b1bb,anonym.realty,available,99.8,456.98,high,low,6,namecheap,,,19/09/2026 11:37
-11cc6b41-518b-4b40-9c62-55f18ddb1f9d,weathered.realty,available,99.8,456.98,high,low,9,namecheap,,,13/09/2026 09:21
+e7d3c018-1793-4364-8138-e5230e04b1bb,anonym.realty,available,99.8,456.98,medium,low,6,namecheap,,,19/09/2026 11:37
+11cc6b41-518b-4b40-9c62-55f18ddb1f9d,weathered.realty,available,99.8,456.98,medium,low,9,namecheap,,,13/09/2026 09:21
 ffa53e56-51ef-4bdf-a47a-cf9a6dc26b2d,angelo.realty,available,99.8,456.98,high,low,6,namecheap,,,25/09/2026 16:57
 6d3c7648-49c4-4c3d-872d-ee0d627d2427,airline.realty,available,109.99,299,high,low,7,namesilo,,,24/09/2026 08:18
 91cd3a0c-50fb-41d3-a32d-429d4f737599,swiss.realty,premium,3450,3450,high,medium,5,namesilo,,,19/09/2026 06:01
@@ -592,7 +612,7 @@ f464fb3c-4c3d-4df1-803e-c401208f6dfc,abed.realty,available,99.8,456.98,medium,lo
 d9c77948-ae66-4e5a-a9f1-f006660852ec,apatura.realty,available,109.99,299,medium,low,7,namesilo,,,19/09/2026 16:22
 f02dc91f-4ab8-4493-8b30-6c8f14c4102b,moot.realty,available,99.8,456.98,high,low,4,namecheap,,,14/08/2026 00:31
 ee5aa784-58f8-46f0-869e-b5e05581b54f,magyar.realty,available,99.8,456.98,high,low,6,namecheap,,,21/08/2026 15:41
-da911ec9-1d59-456e-a9d1-5bdbd0aa8282,stump.realty,available,109.99,299,high,low,5,namesilo,,,18/09/2026 17:18
+da911ec9-1d59-456e-a9d1-5bdbd0aa8282,stump.realty,available,109.99,299,medium,low,5,namesilo,,,18/09/2026 17:18
 4825ce7f-d8ba-4b7b-964a-db8a1a095545,trauma.realty,available,99.8,456.98,high,low,6,namecheap,,,25/09/2026 07:04
 e88d9da5-0759-4d71-96bc-3ff5529352ab,supersonic.realty,available,99.8,456.98,high,low,10,namecheap,,,11/09/2026 02:25
 ba2bb375-98f0-4129-9dba-af08f224f1bf,outcome.realty,available,109.99,299,high,low,7,namesilo,,,
@@ -616,7 +636,7 @@ dacc4a35-75d6-4efd-9cba-59be69317e70,catchy.realty,available,99.8,456.98,high,lo
 7fdc2f95-25d2-4bc7-b194-39b0a508a6d6,spiders.realty,available,109.99,299,medium,low,7,namesilo,,,16/09/2026 05:32
 e7847cce-0b90-434e-a674-4dc7e48279dc,genuinely.realty,available,109.99,299,high,low,9,namesilo,,,
 92ea1394-744c-4508-8b99-60b3798bd797,eventually.realty,available,99.8,456.98,high,low,10,namecheap,,,14/09/2026 16:32
-316f5e5c-665a-4d34-a76e-5b1bc7673f37,zilch.realty,available,99.8,456.98,high,low,5,namecheap,,,03/09/2026 22:42
+316f5e5c-665a-4d34-a76e-5b1bc7673f37,zilch.realty,available,99.8,456.98,medium,low,5,namecheap,,,03/09/2026 22:42
 89f5f7de-f6b1-4463-99b7-f67677092477,spin.realty,available,109.99,299,high,low,4,namesilo,,,
 ebd968df-6381-475d-aa94-e0e562e0ed9e,ends.realty,available,109.99,299,high,low,4,namesilo,,,25/09/2026 13:13
 e1b18fb9-3f55-414f-a7b2-2d24d7205269,that.realty,available,109.99,299,high,low,4,namesilo,,,
@@ -640,13 +660,13 @@ c6cd8dbf-a3f0-4b18-b381-5632a2bd4041,holder.realty,available,109.99,299,high,low
 bf327495-ee77-4934-bca2-e7d24fdd8e17,flint.realty,premium,875,1250,high,low,5,name.com,,,18/08/2026 08:20
 a0d369d2-5dd2-4485-87ef-66746371db95,dove.realty,available,99.8,456.98,high,low,4,namecheap,,,10/09/2026 17:16
 e3098f96-da6d-46bf-b445-7e156a051afa,approaches.realty,available,99.8,456.98,high,low,10,namecheap,,,23/09/2026 20:05
-960618b0-b36f-4250-869b-3085766f0c73,parted.realty,available,99.8,456.98,high,low,6,namecheap,,,08/09/2026 01:57
-c4996ea6-4922-41bc-8aee-6fcf96fa7bfe,lois.realty,available,109.99,299,high,low,4,namesilo,,,25/09/2026 15:30
-84e601a0-7a9e-4be3-8b63-170a6535c7f0,roasted.realty,available,179.99,,high,low,7,name.com,,,
+960618b0-b36f-4250-869b-3085766f0c73,parted.realty,available,99.8,456.98,medium,low,6,namecheap,,,08/09/2026 01:57
+c4996ea6-4922-41bc-8aee-6fcf96fa7bfe,lois.realty,available,109.99,299,medium,low,4,namesilo,,,25/09/2026 15:30
+84e601a0-7a9e-4be3-8b63-170a6535c7f0,roasted.realty,available,179.99,349.99,high,low,7,name.com,,,27/09/2026 15:50
 c02f335f-b336-4cd2-aa60-4caf709419f6,recurvate.realty,available,99.8,456.98,high,medium,9,namecheap,,,09/09/2026 12:07
 8b6b5b74-8d46-4162-b307-e718b45beab6,lookup.realty,available,109.99,299,high,low,7,namesilo,,,
 453a320c-106c-47f4-888f-8b69abb51480,bethel.realty,available,109.99,299,high,low,6,namesilo,,,23/09/2026 11:13
-4ff5a240-9553-4116-ae20-18353aa57936,rarely.realty,available,99.8,456.98,high,low,6,namecheap,,,15/09/2026 22:32
+4ff5a240-9553-4116-ae20-18353aa57936,rarely.realty,available,99.8,456.98,medium,low,6,namecheap,,,15/09/2026 22:32
 a051daff-f287-43b9-b021-32586482ceee,laminar.realty,available,99.8,456.98,high,low,7,namecheap,,,22/08/2026 19:07
 a197595c-f7fa-451f-84a0-072b551efe1f,nordic.realty,available,99.8,456.98,high,low,6,namecheap,,,03/09/2026 21:09
 ea99361f-738b-4453-8207-1b740d61a2c6,pimply.realty,available,99.8,456.98,medium,low,6,namecheap,,,
@@ -656,18 +676,20 @@ dbfd3a20-b88b-4d95-9f0a-fb322cc8347e,scalar.realty,available,99.8,456.98,high,lo
 d5130f7b-625d-4a55-b44a-626421089ebd,adjuster.realty,available,109.99,299,high,low,8,namesilo,,,17/09/2026 08:32
 8bd1ba50-33f0-4b9a-acbd-9bc353e0acf1,citizenship.realty,available,109.99,299,high,low,11,namesilo,,,
 39779f59-024b-4818-91b0-363136bae78a,triplex.realty,available,99.8,456.98,high,low,7,namecheap,,,11/09/2026 11:51
-5501f008-afb9-4f64-a3ad-123291990550,unbranded.realty,available,99.8,456.98,high,low,9,namecheap,,,12/09/2026 04:29
+5501f008-afb9-4f64-a3ad-123291990550,unbranded.realty,available,99.8,456.98,medium,low,9,namecheap,,,12/09/2026 04:29
 b3b795a5-e29d-4dcb-be4d-32b8b4aa8771,absorbed.realty,available,109.99,299,high,low,8,namesilo,,,21/09/2026 14:58
-cf4491f8-73b9-4b0c-b291-b005716a16fd,nearest.realty,available,109.99,299,high,low,7,namesilo,,,
+cf4491f8-73b9-4b0c-b291-b005716a16fd,nearest.realty,available,109.99,299,medium,low,7,namesilo,,,
 c3e18836-f242-4d86-8dc6-320a1579e637,viewable.realty,available,99.8,456.98,high,low,8,namecheap,,,13/09/2026 05:37
 6d3f9956-f4db-481d-8f94-1bec8816072a,messaging.realty,available,109.99,299,high,low,9,namesilo,,,25/09/2026 03:29
 07318895-073f-4434-b99e-a089548aa7a2,bioassay.realty,available,99.8,456.98,medium,low,8,namecheap,,,23/09/2026 17:38
 5b01185c-e3aa-4bf9-aaa8-d9397665c74f,flavorful.realty,available,99.8,456.98,high,low,9,namecheap,,,18/08/2026 07:04
+46cda216-c533-4cd3-ad18-dddf38ead882,oceania.realty,available,88.18,289.16,high,low,7,spaceship,,,27/09/2026 15:02
 1975b0f1-1925-4587-ac81-ad70ffb67123,fedex.realty,available,109.99,299,high,low,5,namesilo,,,
+de223d30-081f-4dcf-9b53-cc38e29d205b,zhu.realty,available,88.18,289.16,high,low,3,spaceship,,,27/09/2026 20:59
 f72530cf-341f-4f1a-b59f-15f1fcf14e6f,injurious.realty,available,99.8,456.98,medium,low,9,namecheap,,,14/08/2026 00:30
 9b29e135-c27f-4a02-93fe-47679de08e54,ramsey.realty,available,109.99,299,high,low,6,namesilo,,,25/09/2026 15:22
 118842a5-a14e-4b5a-8cb1-012a47f5c0f1,ecstatic.realty,available,99.8,456.98,high,low,8,namecheap,,,14/08/2026 23:44
-6fc66015-ea1f-4047-b83d-d57b7027011e,reticent.realty,available,179.99,,high,low,8,name.com,,,
+6fc66015-ea1f-4047-b83d-d57b7027011e,reticent.realty,available,88.18,289.16,high,low,8,spaceship,,,27/09/2026 12:59
 820419c9-3b8e-4e6d-b84e-7e6d2f4d1915,telephonic.realty,available,99.8,456.98,medium,low,10,namecheap,,,11/09/2026 10:20
 e12f0ca5-e84f-4e7d-9912-bd9abdb2a3da,bailiwick.realty,available,179.99,349.99,medium,low,9,name.com,,,21/09/2026 19:08
 203ab97f-9e32-479d-acd2-7f39719c7ca4,farmers.realty,premium,910,1300,high,medium,7,namecheap,,,18/09/2026 07:06
@@ -707,7 +729,8 @@ e95d7347-fc6f-4695-a713-e6fa90ca148c,eased.realty,available,99.8,456.98,high,low
 1001cd3d-7125-46eb-85a0-4f624a2cda62,incomplete.realty,available,99.8,456.98,high,low,10,namecheap,,,22/08/2026 01:53
 83aec0f4-b2dc-4871-b7de-49bd16395af9,tractable.realty,available,99.8,456.98,medium,low,9,namecheap,,,24/08/2026 15:10
 dcf0d9b3-0f19-4604-b326-b875db72ef85,arras.realty,available,109.99,299,medium,low,5,namesilo,,,20/09/2026 08:49
-ff8f4bf4-44f7-4908-9a1c-2bccdc54f6d5,equipping.realty,available,109.99,299,high,low,9,namesilo,,,20/09/2026 07:13
+c9cb49f9-454b-4020-91f2-563353d578b5,salesman.realty,available,109.99,299,high,low,8,namesilo,,,27/09/2026 15:44
+ff8f4bf4-44f7-4908-9a1c-2bccdc54f6d5,equipping.realty,available,109.99,299,medium,low,9,namesilo,,,20/09/2026 07:13
 7f56ce1a-a816-46e7-a300-a008d3efb809,misplaced.realty,available,99.8,456.98,medium,low,9,namecheap,,,25/08/2026 01:32
 bf9282a0-63f3-4fca-803f-d20c516afd30,clothing.realty,available,109.99,299,high,low,8,namesilo,,,23/09/2026 08:13
 7b84d6b7-a952-4ea5-8661-4a7bc5931e08,possess.realty,available,109.99,299,high,low,7,namesilo,,,26/09/2026 03:38
@@ -717,7 +740,7 @@ c77b4379-144c-4be3-9c9b-756031408781,didrikson.realty,available,109.99,299,mediu
 59da70a1-cec8-413d-94d0-f7f407374004,desired.realty,available,109.99,299,high,low,7,namesilo,,,24/09/2026 00:57
 99375901-d105-49ff-a656-d1c1b1e4b525,underarm.realty,available,99.8,456.98,medium,low,8,namecheap,,,12/09/2026 07:21
 7a14ba27-409a-4cba-b62d-dd557cae73cd,soddy.realty,available,99.8,456.98,high,low,5,namecheap,,,17/09/2026 09:26
-5718845e-f9d6-4ba2-a2bd-322da3b9c2f6,duly.realty,available,99.8,456.98,high,low,4,namecheap,,,14/09/2026 14:47
+5718845e-f9d6-4ba2-a2bd-322da3b9c2f6,duly.realty,available,99.8,456.98,medium,low,4,namecheap,,,14/09/2026 14:47
 f78ce111-074f-4d74-921c-e090dda45882,silences.realty,available,109.99,299,medium,low,8,namesilo,,,21/09/2026 10:16
 9f3166ed-eaeb-4314-b3fd-0c2989633077,biometry.realty,available,99.8,456.98,high,low,8,namecheap,,,23/09/2026 18:35
 ad70b767-0194-476a-87c2-446555fe5f5a,convergent.realty,available,99.8,456.98,high,low,10,namecheap,,,12/08/2026 23:50
@@ -730,7 +753,7 @@ be3b9237-765e-48de-ac7c-aa737abecc40,shrieked.realty,available,99.8,456.98,high,
 e4018d2e-a54a-4d1d-b2d7-dd8e1a9a81b9,darius.realty,available,109.99,299,high,low,6,namesilo,,,27/09/2026 07:28
 f3b366c7-b486-4530-bb9c-3d6302ff6f38,orchis.realty,available,99.8,456.98,medium,low,6,namecheap,,,21/09/2026 23:07
 89d1ec11-d8a3-4053-97e0-229204749d5e,mistakenly.realty,available,99.8,456.98,medium,low,10,namecheap,,,14/09/2026 16:00
-ad2045a2-a77f-4fb5-88c1-cc138334d45b,fledgeling.realty,available,99.8,456.98,high,low,10,namecheap,,,18/08/2026 07:32
+ad2045a2-a77f-4fb5-88c1-cc138334d45b,fledgeling.realty,available,99.8,456.98,medium,low,10,namecheap,,,18/08/2026 07:32
 6e7f0521-9f7b-4a00-902a-8c6bb75a1d54,monistic.realty,available,99.8,456.98,medium,low,8,namecheap,,,25/08/2026 04:51
 2deff387-dd91-4e30-8143-0e4c3967679f,biggest.realty,available,109.99,299,medium,low,7,namesilo,,,27/09/2026 02:42
 7f75aa41-3594-4e5c-a0b1-1635babe60fd,polyhedral.realty,available,99.8,456.98,medium,low,10,namecheap,,,08/09/2026 23:24
@@ -746,7 +769,7 @@ c6ca5e3f-7fb0-475b-bd7e-004fb300eef3,neoliberal.realty,available,99.8,456.98,hig
 6d214864-1c8e-4746-80bd-1b9140d31d55,despite.realty,available,109.99,299,high,low,7,namesilo,,,
 e93faeac-232f-464e-8660-d399603271c1,terminators.realty,available,109.99,299,low,low,11,namesilo,,,20/09/2026 12:06
 955c8bec-5ac0-4c14-86bc-d0f207e3270d,aberration.realty,available,109.99,299,medium,low,10,namesilo,,,16/09/2026 15:14
-b0227221-42ad-46bf-ad05-b9541761ae6c,lambent.realty,available,99.8,456.98,high,low,7,namecheap,,,
+b0227221-42ad-46bf-ad05-b9541761ae6c,lambent.realty,available,99.8,456.98,medium,low,7,namecheap,,,
 ef020f35-b76c-4129-a0d2-983d5e235646,pouch.realty,available,109.99,299,high,low,5,namesilo,,,24/09/2026 11:07
 fb26b028-e837-44c3-8372-7fa81caa523b,blackheart.realty,available,109.99,299,medium,low,10,namesilo,,,24/09/2026 02:49
 5433a439-5bee-4d01-b26f-8e22862a47ae,bender.realty,available,109.99,299,high,low,6,namesilo,,,23/09/2026 07:44
@@ -781,24 +804,28 @@ d98b8e2e-8acc-4710-9051-dcd1711f0a0e,bandage.realty,available,109.99,299,high,lo
 c6932fe6-05de-4dcb-9240-e4dd1b76dcdf,week.realty,available,109.99,299,high,low,4,namesilo,,,
 830494a1-da56-4b9c-a847-908dd27b60f2,amundsen.realty,available,109.99,299,medium,low,8,namesilo,,,19/09/2026 00:12
 2795dc55-abab-4ceb-acab-5a3160253355,officials.realty,available,109.99,299,medium,low,9,namesilo,,,17/09/2026 12:28
-c8286d09-6ab7-4feb-9a5c-a9933ab82e4c,pretence.realty,available,109.99,299,high,low,8,namesilo,,,25/09/2026 16:31
+c8286d09-6ab7-4feb-9a5c-a9933ab82e4c,pretence.realty,available,109.99,299,medium,low,8,namesilo,,,25/09/2026 16:31
 1b9c94b8-eef9-47bb-b00f-d013fd61bf03,biloxi.realty,premium,1107,1107,high,low,6,namesilo,,,23/09/2026 16:52
 bf95fef2-7962-4592-8044-dccda0df225d,acne.realty,available,109.99,299,high,low,4,namesilo,,,
 35a154f1-eb82-4147-a07c-e7c8237ddc40,national.realty,premium,1107,1107,high,medium,8,namesilo,,,25/09/2026 22:55
 ad295cee-6599-4ed5-8233-707371410252,rude.realty,available,109.99,299,high,low,4,namesilo,,,22/09/2026 16:12
 d5b59ed2-becc-4a48-b554-843d4f5462c6,anchorage.realty,premium,6900,6900,high,low,9,namesilo,,,19/09/2026 03:43
 c2a60018-8d4b-41d4-a210-4054c2956b8a,larder.realty,available,99.8,456.98,high,low,6,namecheap,,,11/08/2026 11:56
-ed145cb3-2b00-4f21-86cd-c74c9bd221e4,citric.realty,available,99.8,456.98,high,low,6,namecheap,,,12/08/2026 08:54
+d80b0a0b-b39f-41dc-9ae4-aa28d0d42b5b,internets.realty,available,96.52,299.82,medium,low,9,dynadot,,,28/09/2026 02:35
+66f2dcdb-17e3-4a21-8d55-82c75d51aae3,melody.realty,available,109.99,299,high,low,6,namesilo,,,28/09/2026 02:24
+21dee5b0-aa87-40f4-a422-c657991af79b,lung.realty,available,88.18,289.16,high,low,4,spaceship,,,27/09/2026 14:50
+ed145cb3-2b00-4f21-86cd-c74c9bd221e4,citric.realty,available,99.8,456.98,medium,low,6,namecheap,,,12/08/2026 08:54
 695688c4-70a4-4f3e-b229-801ff0a9b38c,seismic.realty,available,99.8,456.98,high,low,7,namecheap,,,10/09/2026 01:52
 547f80fc-9924-4c1e-a906-d791200871f2,removed.realty,available,109.99,299,high,low,7,namesilo,,,26/09/2026 00:50
+782c24db-c108-41fd-9f83-d11a861a47ad,utica.realty,premium,1107,1107,high,low,5,namesilo,,,27/09/2026 16:08
 f90b6aaf-a4a8-468c-889f-b7384f69310c,conform.realty,available,109.99,299,high,low,7,namesilo,,,
 ca5ebd8d-ef72-46f5-bf76-0d1f3b5cb55c,groggy.realty,available,99.8,456.98,medium,low,6,namecheap,,,18/08/2026 09:53
 00fc4f1a-7378-49ed-8549-0f5890878a09,pail.realty,available,109.99,299,high,low,4,namesilo,,,
 4692aea9-8ff0-4f35-b0a4-a8e45f0100ae,piffle.realty,available,99.8,456.98,medium,low,6,namecheap,,,21/09/2026 21:41
 f602076b-d127-4da6-bc43-6e3929a78034,baldly.realty,available,99.8,456.98,medium,low,6,namecheap,,,13/09/2026 23:11
 195d1651-b5ed-439c-ac11-827906b22dab,witnesses.realty,available,99.8,456.98,medium,low,9,namecheap,,,25/09/2026 18:59
-647d0682-39b5-49dc-a3d2-e54169eb82d0,biting.realty,available,99.8,456.98,high,low,6,namecheap,,,08/08/2026 16:41
-4a8d9876-6b64-4675-a838-ed25d97ea32e,modifiable.realty,available,99.8,456.98,high,low,10,namecheap,,,25/08/2026 03:12
+647d0682-39b5-49dc-a3d2-e54169eb82d0,biting.realty,available,99.8,456.98,medium,low,6,namecheap,,,08/08/2026 16:41
+4a8d9876-6b64-4675-a838-ed25d97ea32e,modifiable.realty,available,99.8,456.98,medium,low,10,namecheap,,,25/08/2026 03:12
 ee047534-4b1f-4ada-b8f9-87a4f7ca1ad9,benthic.realty,available,99.8,456.98,medium,low,7,namecheap,,,09/08/2026 14:45
 83dc53b4-dcd4-4984-8bf5-fce88c829da4,recovery.realty,available,99.8,456.98,high,low,8,namecheap,,,08/09/2026 13:21
 4e927839-4121-4090-80fe-cf4a6de7cfa6,signed.realty,available,99.8,456.98,high,low,6,namecheap,,,18/08/2026 22:58
@@ -812,13 +839,14 @@ a9d05c3b-9c6f-4475-9465-20d9a466d5a0,noah.realty,available,99.8,456.98,high,medi
 0a807773-77b4-48d0-971a-5be14dff4576,biography.realty,available,99.8,456.98,high,low,9,namecheap,,,23/09/2026 18:09
 0b07bbaa-b375-48fe-8801-68a4c42329e2,understandable.realty,available,109.99,299,high,low,14,namesilo,,,
 a9114780-e11b-4b64-abfd-2ea8ee01674c,rudderfish.realty,available,109.99,299,medium,low,10,namesilo,,,22/09/2026 01:07
-11658f94-ff39-4cf4-852d-c9a5885f0bb8,quaternion.realty,available,99.8,456.98,high,low,10,namecheap,,,
+11658f94-ff39-4cf4-852d-c9a5885f0bb8,quaternion.realty,available,99.8,456.98,medium,low,10,namecheap,,,
 498d4a9e-8e08-4476-8153-307e80de7f8a,cleveland.realty,premium,4375,,high,low,9,name.com,,,
 5381701b-dad5-4716-8fe8-48e5d0b42cd6,higher.realty,available,109.99,299,high,low,6,namesilo,,,
 fb1a37b7-787b-4927-b9ba-b740dbce385a,marilyn.realty,available,109.99,299,high,low,7,namesilo,,,27/09/2026 06:57
 8caaed24-bd6a-4e6a-88b3-6755a84e1691,dedicated.realty,available,109.99,299,high,low,9,namesilo,,,23/09/2026 20:41
 60489e45-7e90-4258-8a60-3c44e7fd678c,melodious.realty,available,99.8,456.98,high,low,9,namecheap,,,24/08/2026 19:38
 96456dbf-3e74-428a-bac6-987cfae21468,notebooks.realty,available,99.8,456.98,medium,low,9,namecheap,,,20/09/2026 11:51
+855f0a30-af10-4bda-b1cf-d19929f7e848,duties.realty,available,109.99,299,medium,low,6,namesilo,,,27/09/2026 22:05
 941aa409-7b5c-4da0-b1b4-21f33666ce07,anticipant.realty,available,99.8,456.98,medium,low,10,namecheap,,,
 7cdd743b-ad49-4bef-96f3-62ea96f49cb8,politics.realty,available,109.99,299,high,low,8,namesilo,,,27/09/2026 05:03
 080b5dc1-bf2b-4467-8dc7-b191d6132fb0,onshore.realty,available,99.8,456.98,high,low,7,namecheap,,,22/08/2026 06:55
@@ -832,25 +860,26 @@ f8f2b73f-dd9e-472c-9d82-06b8ab9858ce,advocacy.realty,available,109.99,299,high,l
 45891e72-fa20-4ba7-b89f-11627790720f,jock.realty,available,109.99,299,high,low,4,namesilo,,,
 61883c06-5582-4b82-9c9b-2a2edef5a872,bubonic.realty,available,99.8,456.98,medium,low,7,namecheap,,,11/08/2026 07:26
 a8794ecf-125e-4d88-9472-5b6faad9f49a,arginine.realty,available,109.99,299,medium,low,8,namesilo,,,20/09/2026 04:24
-e60b88aa-2710-4067-b464-df611333eebd,cautionary.realty,available,99.8,456.98,high,low,10,namecheap,,,
+e60b88aa-2710-4067-b464-df611333eebd,cautionary.realty,available,99.8,456.98,medium,low,10,namecheap,,,
 a70c1add-29a5-4d73-9662-9b505112e8a3,schmidt.realty,available,109.99,299,high,high,7,namesilo,,,25/09/2026 07:11
 1329227a-245d-4493-bb4a-59048c1c73c0,uninviting.realty,available,99.8,456.98,medium,low,10,namecheap,,,12/09/2026 13:39
 eb26cda5-8396-4862-93c1-92d59aa5990e,importantly.realty,available,109.99,299,medium,low,11,namesilo,,,
+ab9090d5-7909-4879-be06-5bfc949c8108,carpenter.realty,available,109.99,299,high,low,9,namesilo,,,28/09/2026 01:36
 2e32b214-345f-44b3-8400-1e7195020f8e,antlia.realty,available,109.99,299,medium,low,6,namesilo,,,19/09/2026 15:21
 ed9489c4-13ef-468c-a6df-025627d55e9e,banger.realty,available,109.99,299,high,low,6,namesilo,,,22/09/2026 01:46
 5f3f893d-b4b6-487e-9566-40151361eee7,winterhaven.realty,available,109.99,299,high,low,12,namesilo,,,
-27724f03-6de9-4c76-a639-b6455fc9fe2c,mechanized.realty,available,109.99,299,high,low,10,namesilo,,,19/09/2026 16:26
+27724f03-6de9-4c76-a639-b6455fc9fe2c,mechanized.realty,available,109.99,299,medium,low,10,namesilo,,,19/09/2026 16:26
 e32669d8-41af-4d98-87e6-9358a2359353,send.realty,available,179.99,,high,low,4,name.com,,,
-6bd2e847-d64a-4642-a7be-79b117c14879,research.realty,premium,1107,1107,high,medium,8,namesilo,,,25/09/2026 09:00
+6bd2e847-d64a-4642-a7be-79b117c14879,research.realty,premium,1107,1107,high,medium,8,namesilo,,,28/09/2026 02:46
 72be6a74-c765-478c-b0a3-e42175553091,advance.realty,available,99.8,456.98,high,low,7,namecheap,,,21/09/2026 20:22
-5d31084c-cea7-49c5-9095-894b66afb5f0,sheppard.realty,available,109.99,299,high,low,8,namesilo,,,27/09/2026 08:04
+5d31084c-cea7-49c5-9095-894b66afb5f0,sheppard.realty,available,109.99,299,medium,low,8,namesilo,,,27/09/2026 08:04
 08317fa3-c5ef-46dd-a114-4aa505c4ec0d,recreation.realty,premium,1107,1107,high,low,10,namesilo,,,24/09/2026 23:18
 f063eeef-fc67-4e41-a765-88cc67c5f720,essence.realty,available,109.99,299,high,low,7,namesilo,,,25/09/2026 03:33
-00b85787-4fff-4291-8355-13d228eca185,archbishop.realty,available,109.99,299,high,low,10,namesilo,,,20/09/2026 01:46
-4cd62fd7-785d-4305-89a7-4743d8bad72d,centimetre.realty,available,109.99,299,high,low,10,namesilo,,,24/09/2026 13:35
+00b85787-4fff-4291-8355-13d228eca185,archbishop.realty,available,109.99,299,medium,low,10,namesilo,,,20/09/2026 01:46
+4cd62fd7-785d-4305-89a7-4743d8bad72d,centimetre.realty,available,109.99,299,medium,low,10,namesilo,,,24/09/2026 13:35
 a754a2c1-229f-4a85-8131-b5326456d5de,informing.realty,available,109.99,299,high,low,9,namesilo,,,
 f70caa39-f7a2-4218-9ea8-d5103e9562bf,forgotten.realty,available,99.8,456.98,high,low,9,namecheap,,,14/08/2026 12:18
-f3d767ba-99fb-458b-95fc-91b6dd3faf4f,caledonia.realty,available,109.99,299,high,low,9,namesilo,,,27/09/2026 03:27
+f3d767ba-99fb-458b-95fc-91b6dd3faf4f,caledonia.realty,available,109.99,299,medium,low,9,namesilo,,,27/09/2026 03:27
 33c626dc-a8d1-4388-9759-cc380a208ca2,goodish.realty,available,99.8,456.98,medium,low,7,namecheap,,,20/08/2026 16:34
 c537a04f-c2f2-448f-aee6-4dcc0d178e60,youre.realty,available,109.99,299,medium,low,5,namesilo,,,
 afb6b0b9-e0b7-4408-8040-63257d8690f3,sublimated.realty,available,99.8,456.98,medium,low,10,namecheap,,,11/09/2026 00:06
@@ -869,6 +898,7 @@ ae3ffa8e-25e9-4277-9df2-fa2b4cde258d,initial.realty,available,109.99,299,high,lo
 e59ea574-493a-4ad0-98d6-9d3ea7db05b3,beingness.realty,available,99.8,456.98,medium,low,9,namecheap,,,23/09/2026 04:19
 b27ad9ae-21be-4506-8b1d-cbe8d6195e48,muslim.realty,available,99.8,456.98,high,medium,6,namecheap,,,22/08/2026 10:45
 3fa2d70c-0363-4571-9f58-06c9527198a5,hollywood.realty,premium,875,1250,high,low,9,name.com,,,21/08/2026 10:34
+09a177cf-3f1f-403b-87c7-5376856e0e77,philosophy.realty,available,88.18,289.16,high,low,10,spaceship,,,27/09/2026 13:03
 24df5da8-7909-478b-a510-81889be775a9,swinging.realty,available,99.8,456.98,high,low,8,namecheap,,,23/08/2026 08:43
 fa8f4af2-9f10-442b-89f3-a5685de5f7bd,windy.realty,available,109.99,299,high,low,5,namesilo,,,22/09/2026 22:44
 faaab90a-9b8e-41fb-83dd-564b67348016,cared.realty,available,99.8,456.98,medium,low,5,namecheap,,,25/09/2026 19:49
@@ -876,6 +906,7 @@ db8243c6-8e7f-4ef4-87f3-08e314820366,rudolf.realty,available,109.99,299,high,low
 b860b04c-55ac-428b-b06a-f8887a99c0f1,lidless.realty,available,99.8,456.98,medium,low,7,namecheap,,,23/08/2026 01:17
 612e93f9-270a-402d-8413-9983d1103d33,lisbon.realty,premium,875,,high,low,6,name.com,,,
 7ed64c50-0c1b-4d54-bf0c-640f421f13d2,zoologist.realty,available,99.8,456.98,high,low,9,namecheap,,,19/09/2026 08:43
+ad411ff9-931a-4381-8582-3564bc534468,possessed.realty,available,88.18,289.16,medium,low,9,spaceship,,,28/09/2026 03:28
 f72293cc-d194-4d24-a4fc-0c344887c2af,outing.realty,available,109.99,299,high,low,6,namesilo,,,
 76ced321-9402-4d65-8dc8-61e411b556f4,nearer.realty,available,109.99,299,medium,low,6,namesilo,,,
 174a1cf6-1c5a-40b3-934c-590c9a4f3915,odorless.realty,available,99.8,456.98,high,low,8,namecheap,,,22/08/2026 06:02
@@ -885,7 +916,7 @@ cb182a84-7a9b-4cac-b1de-32f9086fdc20,insistent.realty,available,99.8,456.98,medi
 caea10b3-f128-46c8-819e-a107d65385f6,derelict.realty,available,109.99,299,high,low,8,namesilo,,,21/09/2026 13:39
 7e9b6699-edc7-4b5b-adad-7beedc6e206d,surgical.realty,available,99.8,456.98,high,low,8,namecheap,,,11/09/2026 04:01
 697a3bd9-b0a9-49e7-a160-83ff4e3983ef,goodly.realty,available,99.8,456.98,high,low,6,namecheap,,,20/08/2026 16:36
-e7340c6b-d0ac-4f44-acb6-215eb374f8ac,bestiary.realty,available,109.99,299,high,low,8,namesilo,,,23/09/2026 10:36
+e7340c6b-d0ac-4f44-acb6-215eb374f8ac,bestiary.realty,available,109.99,299,medium,low,8,namesilo,,,23/09/2026 10:36
 32735850-00ca-4070-9b9e-3beb8cc776b8,dentistry.realty,available,109.99,299,high,low,9,namesilo,,,24/09/2026 21:55
 7b602d56-23c8-4faf-b78a-a311c32f8718,auricula.realty,available,109.99,299,medium,low,8,namesilo,,,21/09/2026 04:20
 92e414f8-b8a6-4fd1-be81-75f6eebfacc5,authorized.realty,available,109.99,299,high,low,10,namesilo,,,22/09/2026 13:48
@@ -926,14 +957,15 @@ c9f2115a-7b30-4bd4-a12c-b87b40eae2de,dishonour.realty,available,109.99,299,mediu
 e87d35cf-1562-41bb-9e07-a9698c0d902d,hobbies.realty,available,109.99,299,medium,low,7,namesilo,,,20/09/2026 22:38
 02ea2d64-40f0-4156-9826-b57950e1cef2,pupal.realty,available,99.8,456.98,high,medium,5,namecheap,,,09/09/2026 06:07
 24fc432a-ae25-4fa2-84c0-5164b1fc564e,ativan.realty,available,99.8,456.98,medium,low,6,namecheap,,,20/09/2026 21:30
-b55b7f40-e199-432d-abed-8fd544824840,shareholders.realty,available,109.99,299,high,low,12,namesilo,,,17/09/2026 15:53
+b55b7f40-e199-432d-abed-8fd544824840,shareholders.realty,available,109.99,299,medium,low,12,namesilo,,,17/09/2026 15:53
 e098aa83-631a-4022-8e8f-9456cbf3f6f8,barber.realty,available,109.99,299,high,low,6,namesilo,,,
 3e632fe6-3e0a-4c34-be83-8fa07e7eb76c,benchley.realty,available,99.8,456.98,high,low,8,namecheap,,,23/09/2026 07:39
+c842fb64-5dcc-4323-b4d1-a7b162656e13,lightning.realty,available,99.8,456.98,high,medium,9,namecheap,,,27/09/2026 14:47
 9028eceb-ff7d-4568-9e7b-d75f1fe82ae5,radical.realty,available,99.8,456.98,high,low,7,namecheap,,,08/08/2026 21:21
 05d53b74-ed14-47de-a55f-6e19675d9109,rueful.realty,available,99.8,456.98,medium,low,6,namecheap,,,12/08/2026 23:38
 f09cad91-4488-46be-8dcb-b5bae32f090b,crimes.realty,available,179.99,,high,low,6,name.com,,,
 0d01bb27-9314-48d2-9f2b-d040db42a3b5,jena.realty,available,109.99,299,medium,low,4,namesilo,,,22/09/2026 15:18
-b373ac2e-460b-472c-91d7-0c799f3adfac,positional.realty,available,99.8,456.98,high,low,10,namecheap,,,09/09/2026 00:06
+b373ac2e-460b-472c-91d7-0c799f3adfac,positional.realty,available,99.8,456.98,medium,low,10,namecheap,,,09/09/2026 00:06
 90ccfaa8-cbd6-418a-9bb7-a3db8d7bb833,bittie.realty,available,99.8,456.98,medium,low,6,namecheap,,,10/08/2026 07:56
 dbadb5dc-3425-4c08-a41a-2eb8ff672ebf,goonie.realty,available,109.99,299,medium,low,6,namesilo,,,23/09/2026 23:45
 e48372a9-af8c-4bc7-a001-6dc4f51d88b1,radiant.realty,available,99.8,456.98,high,low,7,namecheap,,,15/08/2026 16:24
@@ -951,7 +983,7 @@ d46ab38f-94c6-41d3-a507-60a188b3c1ff,step.realty,available,109.99,299,high,low,4
 304f76f5-9ae0-474d-be80-870440338db4,aires.realty,available,109.99,299,medium,low,5,namesilo,,,25/09/2026 21:54
 ccba4df3-3950-4b78-af46-5cb7279dc638,dispersal.realty,available,109.99,299,high,low,9,namesilo,,,24/09/2026 22:58
 f580106f-1140-416c-9914-a440c2ad0be1,antiquity.realty,available,109.99,299,medium,low,9,namesilo,,,19/09/2026 03:50
-da2fb720-f99b-46cf-be01-4e097526e476,abrasion.realty,available,109.99,299,high,low,8,namesilo,,,16/09/2026 16:56
+da2fb720-f99b-46cf-be01-4e097526e476,abrasion.realty,available,109.99,299,medium,low,8,namesilo,,,16/09/2026 16:56
 bf957c2c-c91c-4970-9e74-9f4c6929cef4,brink.realty,available,179.99,349.99,high,low,5,name.com,,,24/09/2026 10:33
 9fc9106d-e3d9-4827-b7e8-2d6a6d547bed,disfigure.realty,available,99.8,456.98,medium,low,9,namecheap,,,24/09/2026 05:36
 adb8694f-51a7-49a8-8d60-2ac46aa6dc8f,seals.realty,available,109.99,299,high,low,5,namesilo,,,
@@ -965,37 +997,5 @@ a2bbc091-44c9-42f6-b78a-4c5d75c64c31,abode.realty,available,109.99,299,high,low,
 f4d22f54-95cc-499a-860f-26613388801b,rucksack.realty,available,179.99,349.99,high,low,8,name.com,,,21/09/2026 14:41
 a22f1593-df54-4c0e-8679-e1259417cbd7,broke.realty,available,99.8,456.98,high,low,5,namecheap,,,23/09/2026 09:49
 9380aa07-d194-4c65-96a6-33d2277e82ee,leadless.realty,available,99.8,456.98,medium,low,8,namecheap,,,22/08/2026 21:48
-e27a50b1-c29a-46eb-9e2a-f0b5507f88b9,smiling.realty,available,109.99,299,high,low,7,namesilo,,,
+e27a50b1-c29a-46eb-9e2a-f0b5507f88b9,smiling.realty,available,109.99,299,high,low,7,namesilo,,,27/09/2026 23:05
 3f8d6ebd-4321-499a-92d8-061f1caeb27d,peptic.realty,available,99.8,456.98,medium,low,6,namecheap,,,08/09/2026 15:53
-20956610-5c56-4576-a0fb-ab464ae7bdaa,viennese.realty,available,99.8,456.98,high,low,8,namecheap,,,13/09/2026 05:30
-47069159-986c-4abd-8246-263daab197ab,tannic.realty,available,99.8,456.98,medium,low,6,namecheap,,,11/09/2026 08:01
-735a7d3c-0064-42dd-8a95-ec1d4e1ff8a8,calmness.realty,available,99.8,456.98,high,low,8,namecheap,,,11/08/2026 14:56
-76a31ec6-76ab-400a-b2f1-c1721f547fb1,nomothetic.realty,available,99.8,456.98,medium,low,10,namecheap,,,03/09/2026 18:22
-c488e719-95d9-40ca-863e-010849708d5f,train.realty,available,109.99,299,high,low,5,namesilo,,,
-b20e8c6e-2e7c-4b15-837b-48be9ab4ce69,steelyard.realty,available,99.8,456.98,medium,low,9,namecheap,,,22/09/2026 19:57
-1ebc034c-1b4b-4e88-b2d2-a7baa9b2cc4a,servant.realty,available,109.99,299,high,low,7,namesilo,,,25/09/2026 06:52
-bd7a4b40-d0f3-4c02-8503-21ecbd5c150c,cardiac.realty,available,99.8,456.98,high,low,7,namecheap,,,11/08/2026 18:53
-43100687-074c-4c27-ba73-ab1a627b3f97,abyssinian.realty,available,99.8,456.98,high,low,10,namecheap,,,16/09/2026 19:54
-5639e816-d065-4362-a938-9acc0c60d9b7,anechoic.realty,available,99.8,456.98,medium,low,8,namecheap,,,
-42a7a80d-eef1-4d61-8d68-a9ded9b318fb,acorea.realty,available,99.8,456.98,medium,low,6,namecheap,,,17/09/2026 02:12
-bb3b71df-6105-4a2f-bf7c-78fa3032a18f,shirtless.realty,available,109.99,299,medium,low,9,namesilo,,,
-d76a11c3-cebb-4c40-a64e-beba706cefdf,adds.realty,available,99.8,456.98,medium,low,4,namecheap,,,18/09/2026 14:32
-0d31a668-e99e-45e1-b87f-2d42d5299b98,schwartz.realty,available,109.99,299,high,low,8,namesilo,,,25/09/2026 15:46
-7ed1b822-8420-4d68-9f66-03d4eded8170,grad.realty,available,99.8,456.98,high,low,4,namecheap,,,20/08/2026 17:53
-95f7e2de-63c0-4109-ac2a-0deef91b11d8,aslant.realty,available,99.8,456.98,medium,low,6,namecheap,,,07/08/2026 03:56
-78724298-d172-4719-a607-dbf343b4f00f,liver.realty,available,99.8,456.98,high,low,5,namecheap,,,24/08/2026 08:02
-9699e9e4-9a5d-41e7-8a64-901ab1ba6f1f,snyder.realty,available,179.99,349.99,high,low,6,name.com,,,25/09/2026 18:53
-e1138b7b-e917-47fa-af22-71ea8c1a7149,llc.realty,available,99.8,456.98,high,low,3,namecheap,,,25/09/2026 11:14
-43834e96-a807-437f-b909-93f926c35191,racial.realty,available,99.8,456.98,high,low,6,namecheap,,,09/09/2026 09:19
-ccae9fd7-a687-41be-950c-bc58995b0f3b,consortium.realty,available,99.8,456.98,high,low,10,namecheap,,,24/09/2026 17:29
-e10a104d-e97a-4212-a1cd-3640a9886f8b,medici.realty,available,109.99,299,high,low,6,namesilo,,,25/09/2026 23:33
-1f00b8ac-0c45-4586-bb4b-05ec65a9db01,violent.realty,available,99.8,456.98,high,low,7,namecheap,,,11/09/2026 09:46
-6aa1665d-4e8d-4669-a982-4e5b56fe1d11,altar.realty,available,109.99,299,high,low,5,namesilo,,,18/09/2026 14:32
-99159be4-fc05-48a0-a829-c4210190b0f6,cling.realty,available,109.99,299,high,low,5,namesilo,,,24/09/2026 15:42
-5bedd897-e53d-4961-9aa1-e64ec6d39a0c,bibos.realty,available,109.99,299,low,low,5,namesilo,,,23/09/2026 13:02
-804b1ebb-bc17-4c9e-bc99-774af48e2db5,betrayer.realty,available,109.99,299,medium,low,8,namesilo,,,23/09/2026 11:31
-cb4e832a-503d-4edd-94f2-12ba4b1b0928,rotation.realty,available,179.99,,high,low,8,name.com,,,
-5d45f26c-072f-4bc1-9153-121b8e51a172,regulatory.realty,available,99.8,456.98,high,low,10,namecheap,,,09/09/2026 13:17
-83e14bb1-1bc9-402b-b7d2-68eaf67a3423,saurian.realty,available,99.8,456.98,medium,low,7,namecheap,,,22/08/2026 17:55
-edf7eb30-492e-448b-afcf-20cd48daf811,thrilled.realty,available,99.8,456.98,high,low,8,namecheap,,,11/09/2026 14:36
-dc1fb6f0-c9be-46e3-9b38-49093b9cc6d2,boniface.realty,available,99.8,456.98,medium,low,8,namecheap,,,19/09/2026 19:19
