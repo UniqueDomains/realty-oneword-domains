@@ -1,10 +1,10 @@
-# Available .REALTY One-Word Domains (25,684)
+# Available .REALTY One-Word Domains (27,666)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C684%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C666%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .realty one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,684 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,666 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,684 domains · **Median ask:** $171.03 · **High-demand under $2,500:** 62
+**Public extract:** 1,000 rows · **Live catalog:** 27,666 domains · **Median ask:** $174.42 · **High-demand under $2,500:** 69
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/realty`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| domain.realty | premium   | $2,275    | $3,250        | high           | medium | 6      | namecheap |
-| age.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo  |
-| game.realty   | premium   | $910      | $1,300        | high           | medium | 4      | namecheap |
-| ain.realty    | available | $99.80    | $456.98       | high           | low    | 3      | namecheap |
-| flint.realty  | premium   | $875      | $1,250        | high           | low    | 5      | name.com  |
-| bag.realty    | available | $99.80    | $456.98       | high           | low    | 3      | namecheap |
-| parks.realty  | premium   | $875      | —             | high           | low    | 5      | name.com  |
-| btw.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo  |
-| swiss.realty  | premium   | $3,450    | $3,450        | high           | medium | 5      | namesilo  |
-| dot.realty    | available | $99.80    | $456.98       | high           | medium | 3      | namecheap |
-| utica.realty  | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo  |
-| fly.realty    | available | $99.80    | $456.98       | high           | medium | 3      | namecheap |
-| africa.realty | premium   | $6,900    | $6,900        | high           | medium | 6      | namesilo  |
-| gee.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo  |
-| biloxi.realty | premium   | $1,107    | $1,107        | high           | low    | 6      | namesilo  |
-| her.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo  |
-| credit.realty | premium   | $4,375    | —             | high           | low    | 6      | name.com  |
-| lxv.realty    | available | $99.80    | $456.98       | medium         | low    | 3      | namecheap |
-| maj.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo  |
-| lisbon.realty | premium   | $875      | —             | high           | low    | 6      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| age.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo   |
+| game.realty   | premium   | $910      | $1,300        | high           | medium | 4      | namecheap  |
+| ain.realty    | available | $99.80    | $456.98       | high           | low    | 3      | namecheap  |
+| flint.realty  | premium   | $875      | $1,250        | high           | low    | 5      | name.com   |
+| bag.realty    | available | $99.80    | $456.98       | high           | low    | 3      | namecheap  |
+| parks.realty  | premium   | $875      | —             | high           | low    | 5      | name.com   |
+| btw.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo   |
+| swiss.realty  | premium   | $3,450    | $3,450        | high           | medium | 5      | namesilo   |
+| dot.realty    | available | $99.80    | $456.98       | high           | medium | 3      | namecheap  |
+| utica.realty  | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo   |
+| fly.realty    | available | $99.80    | $456.98       | high           | medium | 3      | namecheap  |
+| africa.realty | premium   | $6,900    | $6,900        | high           | medium | 6      | namesilo   |
+| gee.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo   |
+| biloxi.realty | premium   | $1,107    | $1,107        | high           | low    | 6      | namesilo   |
+| hay.realty    | available | $280.20   | $280.20       | high           | low    | 3      | cloudflare |
+| credit.realty | premium   | $4,375    | —             | high           | low    | 6      | name.com   |
+| her.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo   |
+| domain.realty | premium   | $2,275    | $3,250        | high           | medium | 6      | namecheap  |
+| maj.realty    | available | $109.99   | $299          | high           | low    | 3      | namesilo   |
+| havana.realty | premium   | $764.69   | $1,092.18     | high           | low    | 6      | porkbun    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,684 live domains                        |
+| 1,000-row public sample | 27,666 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 62 high-demand names under $2,500          |
+| Basic exported fields   | 69 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REALTY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
